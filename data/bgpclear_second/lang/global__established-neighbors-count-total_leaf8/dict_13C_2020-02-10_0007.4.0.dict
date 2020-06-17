@@ -1,0 +1,59 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:05 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (EB-) or (EB- & BB+) or (KB-) or (KB- & BC+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CD+) or (BC- & CD+);
+
+% D
+"ABB":
+(CD- & DH+);
+
+% E
+"BAA":
+(FE- & EB+ & EB+ & EB+);
+
+% F
+"BBA":
+(GF- & GF- & FE+) or (GF- & GF- & GF- & FE+);
+
+% G
+"BBB":
+(GF+) or (GG- & GF+) or (GG- & GH+) or (GH+) or (LG-) or (LG- & GF+) or (LG- & GG+);
+
+% H
+"BBC":
+(GH- & DH- & HJ+) or (GH- & GH- & DH- & HJ+) or (GH- & GH- & GH- & HJ+);
+
+% J
+"BCC":
+(HJ- & JN+) or (HJ- & JO+ & JO+) or (HJ- & JO+ & JO+ & JO+);
+
+% K
+"CAA":
+(MK- & KB+ & KB+ & KB+);
+
+% L
+"CBB":
+(NL- & LG+ & LG+ & LG+);
+
+% M
+"CCA":
+(OM- & OM- & OM- & MK+);
+
+% N
+"CCB":
+(JN- & NL+) or (ON- & NL+) or (ON- & ON- & NL+);
+
+% O
+"CCC":
+(JO-) or (JO- & OM+) or (JO- & ON+) or (OM+) or (ON+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 13 word clusters, 13 Link Grammar rules.

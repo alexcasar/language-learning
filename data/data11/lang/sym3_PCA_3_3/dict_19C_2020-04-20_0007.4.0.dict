@@ -1,0 +1,83 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:11 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BE+ & BS+ & BB+) or (BB- & BS+) or (BB- & BS+ & BB+) or (BS+) or (GB- & BB+) or (MB-) or (MB- & BS+ & BB+) or (RB-) or (RB- & BB+) or (SB- & BB+) or (SB- & RB- & BB- & BB+);
+
+% C
+"R1":
+(CC+) or (CC-) or (CC- & CC+) or (CC- & CS+) or (CS+) or (EC- & CC- & CC+) or (RC- & CC- & CC+) or (SC-) or (SC- & CC+) or (SC- & CC- & CC+) or (SC- & CC- & CS+) or (TC- & CC+);
+
+% D
+"R10":
+(DS+) or (FD-) or (JD-) or (SD- & GD- & DM+);
+
+% E
+"R11":
+(BE-) or (EC+) or (EG+) or (ER+ & ES+) or (ES+) or (FE-) or (HE-) or (HE- & EG+) or (KE-) or (RE-);
+
+% F
+"R12":
+(FF+) or (FF-) or (FF- & FD+ & FF+) or (FF- & FF+) or (FF- & FG+) or (FF- & FH+ & FE+ & FE+ & FF+) or (FH+) or (GF- & FF+) or (GF- & GF- & FF- & FF+) or (GF- & GF- & GF- & GF- & GF- & GF- & GF- & GF- & GF- & GF- & FF+) or (HF- & GF- & GF- & GF- & GF- & GF- & GF- & FF+);
+
+% G
+"R13":
+(EG- & EG- & GG- & GG+) or (EG- & GG- & GG+) or (FG- & GG+) or (GF+) or (GG+) or (GG-) or (GG- & GB+ & GR+) or (GG- & GD+) or (GG- & GF+) or (GG- & GG+) or (GG- & GR+) or (GR+) or (HG- & GF+) or (HG- & GG- & GF+) or (HG- & GG- & GG+) or (HG- & KG- & GG+) or (KG- & GG+) or (RG- & GG+) or (TG- & GG- & GG+);
+
+% H
+"R14":
+(FH- & HH+) or (FH- & HH- & HS+ & HH+) or (HF+) or (HG+) or (HH+) or (HH-) or (HH- & HE+) or (HH- & HE+ & HE+ & HH+) or (HH- & HE+ & HE+ & HS+ & HH+) or (HH- & HG+) or (HH- & HH+) or (HH- & HR+) or (HH- & HR+ & HH+) or (HH- & HS+) or (HH- & HS+ & HH+) or (HH- & HT+) or (HS+) or (HT+) or (SH- & HH+);
+
+% J
+"R15":
+(JJ+) or (JJ- & JD+ & JJ+) or (JJ- & JJ+) or (JJ- & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JJ+) or (JJ- & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JJ+) or (JJ- & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+ & JK+) or (JJ- & JK+ & JU+) or (JJ- & KJ-) or (JK+) or (JK+ & JK+ & JJ+) or (JU+) or (QJ- & JJ+);
+
+% K
+"R16":
+(JK-) or (JK- & KE+ & KE+) or (JK- & KG+) or (JK- & KL+) or (JK- & KL+ & KK+) or (JK- & UK-) or (KG+ & KJ+) or (KK+) or (KK-) or (KK- & KE+) or (KK- & KK+) or (LK- & KK+) or (LK- & UK-) or (UK-);
+
+% L
+"R17":
+(KL- & LL+) or (KL- & LL- & LL+) or (LK+) or (LL+) or (LL-) or (LL- & LK+) or (LL- & LL+) or (LL- & LQ+) or (PL- & LL+) or (QL-) or (QL- & LL- & LQ+);
+
+% M
+"R2":
+(MM- & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+ & MB+) or (SM- & DM- & RM- & RM- & RM- & RM- & MM+);
+
+% N
+"R20":
+(NN+) or (NN-) or (NN- & NN+);
+
+% O
+"R24":
+(OO+) or (OO-) or (OO- & OO+) or (OO- & OP+) or (OO- & OQ+) or (OO- & OQ+ & OO+) or (OP+) or (QO- & OO+);
+
+% P
+"R25":
+(OP- & QP- & QP- & QP- & QP- & QP- & QP- & QP- & QP- & QP- & OP- & PP+) or (PP- & PQ+ & PL+);
+
+% Q
+"R26":
+(LQ- & QQ+) or (OQ-) or (OQ- & PQ- & QQ+) or (OQ- & QQ- & QQ+) or (QP+) or (QQ+) or (QQ-) or (QQ- & QL+) or (QQ- & QL+ & QJ+) or (QQ- & QO+) or (QQ- & QQ+);
+
+% R
+"R3":
+(ER-) or (GR- & RM+) or (GR- & RR+) or (GR- & RR- & RR+) or (HR-) or (HR- & RR+) or (HR- & RR-) or (RB+ & RM+) or (RM+) or (RR+) or (RR-) or (RR- & RB+ & RR+) or (RR- & RC+) or (RR- & RM+) or (RR- & RR+) or (RS+ & RE+ & RG+ & RB+);
+
+% S
+"R4":
+(BS-) or (BS- & CS- & HS- & SS+) or (BS- & CS- & SS+) or (BS- & SH+) or (BS- & SS+) or (CS- & HS- & SS+) or (CS- & SS+) or (DS- & SS+) or (ES- & SS- & SS+) or (HS-) or (HS- & SS+) or (HS- & SS- & SS+) or (RS- & SS+) or (SD+) or (SS+) or (SS-) or (SS- & SB+) or (SS- & SB+ & SM+) or (SS- & SC+) or (SS- & SC+ & SS+) or (SS- & SH+) or (SS- & SS+) or (ST+) or (TS- & SS+);
+
+% T
+"R5":
+(HT- & TT- & TS+ & TC+) or (ST- & ST- & HT- & ST- & HT- & ST- & ST- & ST- & ST- & HT- & TT+) or (TG+) or (TT- & TT+);
+
+% U
+"R9":
+(JU- & JU- & JU- & JU- & JU- & JU- & JU- & JU- & JU- & JU- & JU- & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+ & UK+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 19 word clusters, 19 Link Grammar rules.

@@ -1,0 +1,17 @@
+Number of sentences    	1
+Maximum sentence length	1153
+Average sentence length	1153
+Number of unique words in sentences	96
+Number of unique parsed words      	96
+Number of unique non-parsed [words]	0
+Number of unique linked words      	96
+Number of unique non-linked words  	0
+Total  words count in sentences    	1153
+Parsed words count in sentences    	1153
+Non-parsed [words] in sentences    	0
+Non-linked words (excl.non-parsed) 	0
+Average word count 	12
+Unique links number	158
+Total  links count 	1149
+Average link count 	7.3
+Average links per linked word	12

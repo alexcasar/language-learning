@@ -1,0 +1,19 @@
+% Grammar Learner v.0.7 2020-03-23 04:44:34 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0" "R1" "R104" "R113" "R114" "R115" "R116" "R117" "R12" "R125" "R126" "R13" "R2" "R226" "R227" "R228" "R237" "R238" "R239" "R3" "R339" "R367" "R368" "R378" "R379" "R4" "R483" "R484" "R485" "R491" "R493" "R494" "R495" "R550" "R560" "R570" "R571" "R572" "R582" "R593" "R594" "R621" "R631" "R632" "R633" "R661" "R662" "R710" "R711" "R721" "R732" "R733" "R813" "R814" "R815" "R816" "R916" "R917" "R926" "R927" "R928" "R929":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BC+ & BC+ & BC+) or (BB- & BC+) or (BB- & BD+) or (CB- & BB+) or (DB- & BB+) or (DB- & DB- & DB- & BD+ & BD+ & BD+);
+
+% C
+"R712" "R722":
+(BC-) or (BC- & CC+) or (CC- & CB+) or (CC- & CC+);
+
+% D
+"R492":
+(BD-) or (BD- & DD+) or (DB+) or (DD- & DB+) or (DD- & DD+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 3 word clusters, 3 Link Grammar rules.

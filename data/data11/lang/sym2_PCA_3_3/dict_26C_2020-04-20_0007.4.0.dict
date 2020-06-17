@@ -1,0 +1,111 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:11 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R1":
+(ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ANAB- & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+ & ABAW+);
+
+% AC
+"R10":
+(ACAC- & ACAC+) or (ACAC- & ACAD+) or (ACAC- & ACAG+) or (ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ADAC- & ACAC+);
+
+% AD
+"R11":
+(ACAD- & ADAC+) or (ADAC+) or (ADAD+) or (ADAD- & ADAC+) or (ADAD- & ADAD+) or (ADAD- & ADAG+) or (ADAD- & ADAG+ & ADAD+) or (ANAD- & ADAD+);
+
+% AE
+"R12":
+(AEAE+) or (AEAE- & AEAE+) or (AEAE- & AEAP+) or (BBAE-) or (BBAE- & AEAE+);
+
+% AF
+"R13":
+(AFAF- & AFAF+) or (AFAF- & AFAQ+ & AFAF+) or (AFAF- & AFAQ+ & AFAR+) or (AGAF- & AFAF+) or (AGAF- & AFAF- & AFAF+);
+
+% AG
+"R14":
+(ACAG- & AGAG+) or (ADAG- & AGAG+) or (ADAG- & AGAG- & AGAG+) or (AGAF+) or (AGAG+) or (AGAG-) or (AGAG- & AGAF+) or (AGAG- & AGAG+);
+
+% AH
+"R15":
+(AHAH+) or (AHAH- & AHAH+) or (AHAH- & AHAJ+) or (AHAH- & AHAS+) or (AHAJ+) or (AHAY+) or (ATAH- & AHAH+);
+
+% AJ
+"R16":
+(AHAJ- & AKAJ-);
+
+% AK
+"R17":
+(AKAK- & AKAJ+ & AKAJ+ & AKAK+) or (AKAK- & AKAK+) or (AKAK- & AKAY+) or (AUAK-) or (AUAK- & AKAK+);
+
+% AL
+"R18":
+(ALAL- & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAM+) or (ALAM+ & ALAM+ & ALAM+ & ALAM+ & ALAL+) or (APAL-);
+
+% AM
+"R19":
+(ALAM-) or (ALAM- & AMAM+) or (AMAM+) or (AMAM-) or (AMAM- & AMAM+) or (AMAM- & AMAQ+) or (AOAM-) or (AOAM- & AMAM+);
+
+% AN
+"R2":
+(ANAB+) or (ANAN- & ANAB+) or (ANAN- & ANAD+) or (ANAN- & ANAN+) or (AWAN- & ANAN+) or (AXAN- & ANAN+);
+
+% AO
+"R20":
+(AOAO+) or (AOAO- & AOAM+) or (AOAO- & AOAM+ & AOAO+) or (AOAO- & AOAO+);
+
+% AP
+"R21":
+(AEAP- & APAP+) or (AEAP- & APAP- & APBB+ & APAL+ & APAP+) or (APAP- & APAP+) or (APAP- & APBB+);
+
+% AQ
+"R22":
+(AFAQ-) or (AFAQ- & AQAQ+) or (AMAQ- & AQAQ+) or (AQAQ-) or (AQAQ- & AQAQ+) or (ARAQ- & AQAQ+) or (ATAQ-);
+
+% AR
+"R23":
+(AFAR- & ARAR+) or (ARAQ+ & ARAT+) or (ARAR- & ARAR+) or (ARAR- & ARAT+) or (ARAT+);
+
+% AS
+"R24":
+(AHAS- & ASAS+) or (ASAS- & ASAS+) or (ASAS- & ASBB+);
+
+% AT
+"R25":
+(ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ARAT- & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAQ+ & ATAH+);
+
+% AU
+"R26":
+(AUAU+) or (AUAU- & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+ & AUAK+);
+
+% AV
+"R3":
+(AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+ & AVAW+);
+
+% AW
+"R4":
+(ABAW-) or (ABAW- & AWAW+) or (AVAW-) or (AVAW- & AWAW+) or (AWAW+) or (AWAW-) or (AWAW- & AWAN+) or (AWAW- & AWAW+) or (AXAW- & AWAW+) or (AZAW- & AWAW- & AWAW+) or (AZAW- & AWAW- & AWAZ+);
+
+% AX
+"R5":
+(AXAX- & AXAW+ & AXAN+) or (AXAX- & AXAW+ & AXAX+) or (AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AZAX- & AXAX+);
+
+% AY
+"R6":
+(AHAY- & AYAY- & AYAY+) or (AKAY- & AYAY+) or (AYAY- & AYAY+) or (AYAY- & AYAZ+) or (AYAY- & AYAZ+ & AYAY+);
+
+% AZ
+"R7":
+(AWAZ- & AZAZ+) or (AYAZ-) or (AYAZ- & AZAZ+) or (AZAX+) or (AZAZ+) or (AZAZ-) or (AZAZ- & AZAW+) or (AZAZ- & AZAX+) or (AZAZ- & AZAZ+) or (AZAZ- & AZBA+) or (AZBA+) or (BAAZ-) or (BAAZ- & AZAZ+);
+
+% BA
+"R8":
+(AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & AZBA- & BAAZ+ & BABA+) or (BABA- & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+ & BAAZ+) or (BABA- & BABA+);
+
+% BB
+"R9":
+(APBB-) or (APBB- & BBAE+) or (ASBB- & BBBB+) or (BBBB- & BBAE+) or (BBBB- & BBBB+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 26 word clusters, 26 Link Grammar rules.

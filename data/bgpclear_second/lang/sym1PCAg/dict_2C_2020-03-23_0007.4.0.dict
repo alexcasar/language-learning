@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-03-23 04:44:40 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R106499" "R108555" "R12362" "R12370" "R12372" "R12427" "R127402" "R12875" "R13387" "R135171" "R13835" "R139267" "R140291" "R140811" "R14347" "R14859" "R15379" "R15891" "R160170" "R16523" "R16531" "R16595" "R167939" "R192866" "R192874" "R200707" "R204803" "R205315" "R217306" "R221466" "R229379" "R233475" "R237635" "R237643" "R241739" "R241803" "R245907" "R245970" "R40963" "R41027" "R4129" "R4136" "R4137" "R4144" "R4215" "R4291" "R4419" "R45131" "R48" "R48139" "R48651" "R4867" "R4931" "R4995" "R53466" "R53530" "R56" "R57634" "R73731" "R80395" "R8210" "R8218" "R8225" "R8267" "R8274" "R8276" "R8284" "R8285" "R8293" "R8294" "R8302" "R8303" "R8311" "R8331" "R835" "R8387" "R8395" "R8451" "R8459" "R899" "R90466" "R94562" "R94570" "R962" "R963":
+(BB+) or (BB+ & BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB+) or (BB- & BB- & BB+ & BB+) or (BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB+ & BB+) or (BB- & BB- & BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB- & BC+ & BC+ & BC+) or (BB- & BC+) or (CB- & CB- & CB- & BB+) or (CB- & CB- & CB- & BB+ & BB+);
+
+% C
+"R12363":
+(BC-) or (BC- & CC+) or (CB+) or (CC+) or (CC-) or (CC- & CB+) or (CC- & CC+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

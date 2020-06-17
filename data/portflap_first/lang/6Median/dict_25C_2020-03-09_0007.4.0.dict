@@ -1,0 +1,107 @@
+% Grammar Learner v.0.7 2020-03-09 07:53:33 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"AAA":
+(ABAB+) or (ABAB- & ABAB+) or (ABAB- & ABAC+) or (ABAB- & ABAD+) or (ABAC+) or (ABAD+) or (ALAB- & ABAB+) or (AUAB-) or (AUAB- & ABAB+);
+
+% AC
+"AAB":
+(ABAC- & ACAE+) or (ABAC- & ACAF+) or (ABAC- & ACAG+) or (ABAC- & ALAC- & ACAF+) or (ABAC- & ALAC- & ACAG+) or (ACAE+) or (ALAC- & ACAE+) or (ALAC- & ACAF+);
+
+% AD
+"AAC":
+(ABAD- & ABAD- & ABAD- & ADAK+);
+
+% AE
+"ABA":
+(ACAE-) or (ACAE- & AEAL+) or (ACAE- & AWAE- & AEAM+) or (AEAM+) or (AMAE-);
+
+% AF
+"ABB":
+(ACAF- & AFAO+) or (ACAF- & AFAP+) or (ACAF- & AFAQ+) or (AFAR+) or (AMAF- & ACAF- & AFAO+) or (AMAF- & AFAO+) or (AMAF- & AMAF- & AFAO+);
+
+% AG
+"ABC":
+(ACAG- & AGAT+) or (ACAG- & AGAT+ & AGAZ+) or (AMAG- & AGAT+ & AGAZ+) or (AMAG- & AMAG- & AGAT+);
+
+% AH
+"ACA":
+(ANAH- & AHAU+);
+
+% AJ
+"ACB":
+(ANAJ- & AJAW+) or (AVAJ-);
+
+% AK
+"ACC":
+(ADAK- & AKAZ+ & AKAW+);
+
+% AL
+"BAA":
+(AEAL- & ALAC+) or (AOAL- & ALAB+) or (AOAL- & ALAC+) or (AWAL-) or (AWAL- & ALAB+);
+
+% AM
+"BAB":
+(AEAM- & AMAF+) or (AEAM- & AMAG+) or (AOAM- & AMAE+) or (AOAM- & AMAF+) or (AOAM- & AMAG+) or (AOAM- & AMAR+);
+
+% AN
+"BAC":
+(AOAN- & AXAN- & ANAH+) or (AOAN- & AXAN- & ANAJ+);
+
+% AO
+"BBA":
+(AFAO- & AOAL+) or (AFAO- & AOAM+) or (AFAO- & AOAM+ & AOAL+) or (AOAN+) or (APAO- & AFAO- & AOAL+) or (APAO- & AFAO- & AOAM+) or (APAO- & AOAL+) or (APAO- & AOAM+) or (ASAO- & AOAM+);
+
+% AP
+"BBB":
+(AFAP- & APAP+) or (AFAP- & APAQ+) or (APAO+) or (APAP- & APAO+) or (APAP- & APAP+) or (APAP- & APAQ+) or (APAQ+) or (AXAP-) or (AXAP- & APAO+) or (AXAP- & APAP+) or (AXAP- & APAQ+);
+
+% AQ
+"BBC":
+(AFAQ- & AQAS+) or (APAQ- & APAQ- & APAQ- & AQAT+) or (APAQ- & AQAT+) or (AQAR+) or (AQAS+);
+
+% AR
+"BCA":
+(AQAR- & AFAR- & AMAR- & ARAV+);
+
+% AS
+"BCB":
+(AQAS- & ASAS- & ASAX+) or (AQAS- & ASAX+ & ASAS+) or (AYAS-) or (AYAS- & AYAS- & ASAX+ & ASAO+);
+
+% AT
+"BCC":
+(AGAT- & ATBA+) or (AGAT- & ATBA+ & ATBA+ & ATBA+) or (AQAT- & ATBA+ & ATAZ+) or (AQAT- & ATBA+ & ATBA+ & ATAZ+) or (AQAT- & ATBA+ & ATBA+ & ATBA+) or (AYAT- & ATBA+ & ATBA+ & ATBA+);
+
+% AU
+"CAA":
+(AHAU- & AUAB+ & AUAB+ & AUAB+);
+
+% AV
+"CAC":
+(ARAV- & AVAJ+ & AVAX+);
+
+% AW
+"CBA":
+(AJAW- & AWAL+ & AWAE+) or (AKAW- & AWAL+);
+
+% AX
+"CBB":
+(ASAX-) or (ASAX- & AXAP+ & AXAN+) or (AVAX- & AXAP+ & AXAN+) or (AZAX- & AXAP+ & AXAP+) or (AZAX- & AXAP+ & AXAP+ & AXAP+);
+
+% AY
+"CBC":
+(AYAS+) or (AZAY- & AYAS+ & AYAS+) or (AZAY- & AYAT+);
+
+% AZ
+"CCB":
+(AGAZ- & AZAX+) or (AGAZ- & AZAY+) or (ATAZ- & AZAX+) or (BAAZ- & AKAZ-) or (BAAZ- & AZAX+) or (BAAZ- & AZAY+);
+
+% BA
+"CCC":
+(ATBA-) or (ATBA- & BAAZ+) or (ATBA- & BABA+) or (BAAZ+) or (BABA- & BAAZ+) or (BABA- & BABA+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 25 word clusters, 25 Link Grammar rules.

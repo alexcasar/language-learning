@@ -1,0 +1,63 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:43 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (FB-) or (FB- & BB+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CD+) or (BC- & BC- & BC- & CE+);
+
+% D
+"ABB":
+(CD- & DH+ & DH+ & DJ+) or (CD- & DH+ & DJ+);
+
+% E
+"ABC":
+(CE- & EL+ & EP+ & EP+);
+
+% F
+"BAA":
+(GF- & FB+ & FB+ & FB+);
+
+% G
+"BBA":
+(HG- & HG- & GF+) or (HG- & HG- & HG- & GF+);
+
+% H
+"BBB":
+(DH-) or (HG+) or (HH- & HG+) or (HH- & HH+) or (MH-) or (MH- & HG+) or (MH- & HH+);
+
+% J
+"BBC":
+(DJ- & JL+);
+
+% K
+"BCB":
+(NK- & KM+);
+
+% L
+"BCC":
+(EL-) or (JL- & LP+) or (JL- & LP+ & LP+);
+
+% M
+"CBB":
+(KM- & MH+ & MH+ & MH+) or (OM- & MH+ & MH+ & MH+);
+
+% N
+"CBC":
+(ON- & NK+);
+
+% O
+"CCB":
+(PO- & OM+) or (PO- & ON+);
+
+% P
+"CCC":
+(EP-) or (EP- & PO+) or (LP-) or (LP- & PO+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 14 word clusters, 14 Link Grammar rules.

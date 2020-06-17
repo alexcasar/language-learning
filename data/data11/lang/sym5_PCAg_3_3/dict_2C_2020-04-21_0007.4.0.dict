@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-04-21 03:25:47 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R1" "R10" "R11" "R12" "R13" "R15" "R16" "R17" "R18" "R19" "R2" "R20" "R21" "R22" "R23" "R24" "R26" "R4" "R5" "R6" "R7" "R8" "R9":
+(BB+) or (BB+ & BB+) or (BB+ & BB+ & BB+) or (BB+ & BB+ & BB+ & BB+ & BB+) or (BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB+ & BB+ & BC+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB-) or (BB- & BB- & BB+) or (BB- & BB- & BB+ & BB+) or (BB- & BB- & BB-) or (BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB+ & BB+) or (BB- & BB- & BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB- & BB- & BB-) or (BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB-) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+ & BB+ & BB+ & BC+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BC+) or (BB- & BC+ & BB+) or (BC+) or (BC+ & BC+ & BC+ & BC+ & BC+ & BC+) or (CB-) or (CB- & CB- & BB+ & BC+ & BC+ & BC+) or (CB- & CB- & BC+ & BC+ & BC+ & BC+) or (CB- & CB- & BC+ & BC+ & BC+ & BC+ & BC+ & BC+ & BC+ & BC+);
+
+% C
+"R14":
+(BC-) or (BC- & BC-) or (BC- & BC- & BC- & BC- & BC-) or (BC- & BC- & CB+ & CB+ & CB+) or (BC- & BC- & CC+) or (BC- & CB+) or (BC- & CB+ & CB+ & CB+) or (BC- & CC+) or (BC- & CC-) or (CB+) or (CB+ & CB+) or (CC-) or (CC- & CB+ & CB+ & CB+) or (CC- & CB+ & CB+ & CB+ & CB+ & CC+) or (CC- & CB+ & CB+ & CC+) or (CC- & CC+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

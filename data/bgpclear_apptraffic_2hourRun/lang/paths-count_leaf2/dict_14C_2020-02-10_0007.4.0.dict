@@ -1,0 +1,63 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:42 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BB- & BD+) or (BC+) or (BD+) or (HB-) or (HB- & BB+) or (HB- & BC+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CE+) or (BC- & BC- & BC- & CF+);
+
+% D
+"AAC":
+(BD- & BD- & BD- & DG+);
+
+% E
+"ABB":
+(CE- & EK+) or (CE- & EK+ & EK+ & EK+) or (CE- & EK+ & EL+);
+
+% F
+"ABC":
+(CF- & FM+);
+
+% G
+"ACC":
+(DG- & GP+ & GP+ & GP+);
+
+% H
+"BAA":
+(JH- & HB+) or (JH- & HB+ & HB+ & HB+);
+
+% J
+"BBA":
+(KJ- & KJ- & JH+) or (KJ- & KJ- & KJ- & JH+);
+
+% K
+"BBB":
+(EK-) or (EK- & KJ+) or (EK- & KK+) or (EK- & KL+) or (KJ+) or (KK- & KJ+) or (KK- & KK+) or (KL+) or (NK-) or (NK- & KJ+);
+
+% L
+"BBC":
+(EL- & LM+) or (KL- & KL- & KL- & LM+) or (KL- & KL- & LM+) or (KL- & LM+);
+
+% M
+"BCC":
+(FM- & MP+) or (LM- & MP+);
+
+% N
+"CBB":
+(ON- & NK+) or (ON- & NK+ & NK+) or (ON- & NK+ & NK+ & NK+);
+
+% O
+"CCB":
+(PO- & ON+) or (PO- & PO- & ON+) or (PO- & PO- & PO- & ON+);
+
+% P
+"CCC":
+(GP-) or (GP- & PO+) or (MP- & PO+) or (PO+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 14 word clusters, 14 Link Grammar rules.

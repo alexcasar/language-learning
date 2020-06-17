@@ -1,0 +1,71 @@
+% Grammar Learner v.0.7 2020-03-09 07:52:45 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BC+) or (BD+) or (GB-) or (GB- & BC+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CE+);
+
+% D
+"AAC":
+(BD- & BD- & DF+);
+
+% E
+"ABB":
+(CE- & EK+);
+
+% F
+"ACC":
+(DF- & FR+ & FR+ & FR+);
+
+% G
+"BAA":
+(HG- & GB+ & GB+ & GB+) or (NG- & GB+ & GB+ & GB+);
+
+% H
+"BBA":
+(OH- & HG+);
+
+% J
+"BBB":
+(JJ- & JJ+) or (JJ- & JK+) or (JK+) or (OJ- & JJ+);
+
+% K
+"BBC":
+(EK- & KM+) or (JK- & EK- & KM+) or (JK- & KM+) or (LK- & KM+ & KN+) or (OK- & KM+);
+
+% L
+"BCB":
+(PL- & LO+ & LK+);
+
+% M
+"BCC":
+(KM-) or (KM- & MR+) or (PM- & MR+);
+
+% N
+"CBA":
+(QN- & KN- & NG+);
+
+% O
+"CBB":
+(LO-) or (QO- & OH+) or (QO- & OJ+) or (QO- & OK+);
+
+% P
+"CBC":
+(QP- & PL+) or (QP- & PM+);
+
+% Q
+"CCB":
+(QN+) or (RQ- & QO+) or (RQ- & QP+);
+
+% R
+"CCC":
+(FR-) or (FR- & RR+) or (MR- & RR+) or (RR-) or (RR- & RQ+) or (RR- & RR+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 16 word clusters, 16 Link Grammar rules.

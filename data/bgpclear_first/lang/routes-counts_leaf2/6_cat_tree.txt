@@ -1,0 +1,6 @@
+B	0	1	1	AAA	1
+C	0	2	1	AAB	1
+D	0	3	1	ABB	1
+E	0	4	1	BAA	1
+F	0	5	1	BBA	1
+G	0	6	1	BBB	1

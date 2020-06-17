@@ -1,0 +1,243 @@
+% Grammar Learner v.0.7 2020-03-23 04:57:53 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R134":
+(AEAB- & ABAK+ & ABAK+ & ABAK+);
+
+% AC
+"R136":
+(ACAF+) or (ALAC- & ALAC- & ALAC- & ACAF+);
+
+% AD
+"R144":
+(AEAD-) or (BEAD-);
+
+% AE
+"R145":
+(BEAE- & BEAE- & AEAD+ & AEAD+ & AEAB+);
+
+% AF
+"R146":
+(ACAF- & ACAF- & AFBF+ & AFBF+ & AFBF+);
+
+% AG
+"R223":
+(AGAG- & AGAG+) or (AGAG- & AGAH+) or (AHAG- & AGAG+);
+
+% AH
+"R224":
+(AGAH- & AHAH+) or (AHAG+) or (AHAH-) or (AHAH- & AHAH+) or (AHAO+) or (APAH- & AHAH+);
+
+% AJ
+"R233":
+(AKAJ- & AKAJ- & AKAJ- & AJAK+ & AJAK+ & AJAK+);
+
+% AK
+"R234":
+(ABAK-) or (ABAK- & AKAK+) or (AJAK-) or (AJAK- & AKAK+) or (AKAJ+) or (AKAK+) or (AKAK-) or (AKAK- & AKAJ+) or (AKAK- & AKAK+) or (AKAK- & AKAR+) or (AKAK- & AKAT+) or (AKAR+);
+
+% AL
+"R235":
+(ALAC+) or (ALAL+) or (ALAL-) or (ALAL- & ALAL+) or (APAL-) or (ASAL-) or (ASAL- & ALAL+);
+
+% AM
+"R305":
+(AMAM- & AMAM+) or (AMAM- & AMAN+) or (ANAM- & AMAM+);
+
+% AN
+"R315":
+(AMAN- & ANAN+) or (ANAN- & ANAN+) or (ANAN- & ANAP+) or (AOAN-) or (AOAN- & ANAM+);
+
+% AO
+"R324":
+(AHAO- & AOAO+) or (AOAO- & AOAP+ & AOAN+ & AOAN+);
+
+% AP
+"R325":
+(ANAP- & APAP+) or (AOAP-) or (APAP- & APAH+) or (APAP- & APAL+) or (APAP- & APAP+) or (AQAP-) or (AQAP- & APAP+);
+
+% AQ
+"R326":
+(BBAQ-) or (BBAQ- & AQAP+ & AQAP+ & AQAP+);
+
+% AR
+"R333":
+(AKAR- & AKAR- & AKAR- & ARBD+);
+
+% AS
+"R335":
+(AUAS- & AUAS- & AUAS- & ASAL+ & ASAL+ & ASAL+);
+
+% AT
+"R344":
+(AKAT- & ATAW+ & ATAW+) or (ATAW+);
+
+% AU
+"R345":
+(AUAS+) or (AVAU-) or (AVAU- & AUAS+);
+
+% AV
+"R346":
+(AXAV- & AVAU+ & AVAU+ & AVAU+);
+
+% AW
+"R353":
+(ATAW- & ATAW-) or (ATAW- & AWAY+);
+
+% AX
+"R356":
+(AZAX-) or (AZAX- & AXAV+);
+
+% AY
+"R363":
+(AWAY- & AYBG+);
+
+% AZ
+"R366":
+(BAAZ- & AZAX+ & AZAX+ & AZAX+);
+
+% BA
+"R367":
+(BJBA-) or (BJBA- & BAAZ+);
+
+% BB
+"R416":
+(BCBB-) or (BCBB- & BBAQ+ & BBAQ+);
+
+% BC
+"R417":
+(BSBC-) or (BSBC- & BCBB+ & BCBB+);
+
+% BD
+"R432":
+(ARBD- & BDBV+);
+
+% BE
+"R45":
+(BEAD+ & BEAE+) or (BEAE+) or (BFBE-);
+
+% BF
+"R46":
+(AFBF-) or (AFBF- & BFBF+) or (BFBF- & BFBE+) or (BFBF- & BFBF+);
+
+% BG
+"R463":
+(AYBG- & BGBH+);
+
+% BH
+"R473":
+(BGBH- & BHBK+ & BHBK+);
+
+% BJ
+"R477":
+(BMBJ- & BJBA+ & BJBA+);
+
+% BK
+"R484":
+(BHBK-) or (BHBK- & BKBN+);
+
+% BL
+"R487":
+(BQBL- & BLBM+ & BLBM+);
+
+% BM
+"R488":
+(BLBM-) or (BLBM- & BMBJ+);
+
+% BN
+"R494":
+(BKBN- & BNBO+ & BNBO+);
+
+% BO
+"R495":
+(BNBO-) or (BNBO- & BOBW+);
+
+% BP
+"R496":
+(BWBP-) or (BWBP- & BPBQ+);
+
+% BQ
+"R497":
+(BPBQ- & BQBL+);
+
+% BR
+"R509":
+(BXBR- & BRBT+);
+
+% BS
+"R517":
+(BTBS- & BSBC+ & BSBC+);
+
+% BT
+"R518":
+(BRBT- & BTBS+);
+
+% BU
+"R540":
+(BVBU- & BUBY+);
+
+% BV
+"R541":
+(BDBV- & BVBU+);
+
+% BW
+"R595":
+(BOBW- & BWBP+ & BWBP+);
+
+% BX
+"R609":
+(BZBX- & BXBR+);
+
+% BY
+"R640":
+(BUBY- & BYCA+ & BYCA+);
+
+% BZ
+"R709":
+(CCBZ-) or (CCBZ- & BZBX+);
+
+% CA
+"R740":
+(BYCA-) or (BYCA- & CACE+);
+
+% CB
+"R817":
+(CFCB- & CBCC+);
+
+% CC
+"R818":
+(CBCC- & CCBZ+ & CCBZ+ & CCBZ+);
+
+% CD
+"R830":
+(CECD- & CDCJ+);
+
+% CE
+"R840":
+(CACE- & CECD+);
+
+% CF
+"R916":
+(CHCF- & CFCB+);
+
+% CG
+"R923":
+(CKCG- & CGCH+);
+
+% CH
+"R924":
+(CGCH- & CHCF+);
+
+% CJ
+"R931":
+(CDCJ- & CJCK+);
+
+% CK
+"R932":
+(CJCK- & CKCG+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 59 word clusters, 59 Link Grammar rules.

@@ -1,0 +1,79 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:10 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R10":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BB- & BK+) or (CB- & BB+) or (KB-) or (KB- & BB+) or (KB- & CB- & BB+);
+
+% C
+"R11":
+(BC- & CC+) or (BC- & CC- & CC+) or (CC+) or (CC-) or (CC- & CB+) or (CC- & CB+ & CL+) or (CC- & CC+) or (CC- & CL+) or (FC-) or (FC- & CC+) or (NC-) or (NC- & CF+ & CB+);
+
+% D
+"R12":
+(DD- & DD+) or (DD- & DE+) or (RD- & DD+) or (RD- & DD- & DD+);
+
+% E
+"R13":
+(DE- & EE+) or (EE+) or (EE-) or (EE- & EE+) or (EE- & ES+) or (EE- & ES+ & EE+) or (SE- & EE+);
+
+% F
+"R14":
+(CF- & FF+) or (FF+) or (FF-) or (FF- & FC+) or (FF- & FC+ & FF+) or (FF- & FF+);
+
+% G
+"R15":
+(GG- & GG+) or (GG- & GT+) or (HG-) or (HG- & GG+) or (HG- & HG- & HG- & HG- & HG- & HG- & HG-);
+
+% H
+"R16":
+(HG+) or (PH- & PH- & PH- & HG+ & HG+ & HG+ & HG+ & HG+ & HG+ & HG+ & HG+ & HG+);
+
+% J
+"R18":
+(JJ+) or (JJ- & JJ+) or (JJ- & JM+ & JM+ & JM+ & JM+ & JM+ & JM+ & JM+ & JM+ & JM+ & JM+);
+
+% K
+"R19":
+(BK- & KK+) or (KB+ & KK+) or (KK-) or (KK- & KB+) or (KK- & KB+ & KL+) or (KK- & KK+) or (LK- & KK+) or (LK- & KK- & KK+);
+
+% L
+"R20":
+(CL- & LL+) or (CL- & LL- & LL+) or (KL- & LL+) or (LK+) or (LL+) or (LL- & LK+) or (LL- & LL+) or (LL- & LN+) or (LL- & LN+ & LL+);
+
+% M
+"R21":
+(JM-) or (JM- & MO+ & MO+ & MO+ & MO+);
+
+% N
+"R23":
+(LN-) or (LN- & NN+) or (LN- & NN- & NN+) or (NN- & NC+ & NC+ & NC+ & NC+ & NC+ & NC+ & NC+ & NC+) or (NN- & NN+);
+
+% O
+"R24":
+(MO-) or (MO- & OP+ & OP+ & OQ+);
+
+% P
+"R25":
+(OP-) or (PH+);
+
+% Q
+"R26":
+(OQ- & QQ+) or (QQ-) or (QQ- & QQ+);
+
+% R
+"R3":
+(RR+) or (RR-) or (RR- & RD+) or (RR- & RR+) or (SR- & RR+);
+
+% S
+"R4":
+(ES- & SS+) or (ES- & SS- & SS+) or (SS-) or (SS- & SE+) or (SS- & SR+ & SS+) or (SS- & SS+);
+
+% T
+"R6":
+(GT- & TT+) or (TT-) or (TT- & TT+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 18 word clusters, 18 Link Grammar rules.

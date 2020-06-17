@@ -1,0 +1,355 @@
+% Grammar Learner v.0.7 2020-03-23 04:58:10 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R133":
+(ABAB- & ABAB+) or (ABAB- & ABAD+) or (ABAD+) or (ACAB- & ABAB+);
+
+% AC
+"R134":
+(ACAC- & ACAB+) or (ACAC- & ACAC+) or (AVAC- & ACAC+);
+
+% AD
+"R142":
+(ABAD- & ABAD- & ABAD- & ADAE+ & ADAE+);
+
+% AE
+"R152":
+(ADAE-) or (ADAE- & AEAF+ & AEAF+);
+
+% AF
+"R161":
+(AEAF-) or (AEAF- & AFAG+);
+
+% AG
+"R171":
+(AFAG- & AGAN+ & AGAN+ & AGAN+);
+
+% AH
+"R223":
+(AHAH- & AHAH+) or (AHAH- & AHAU+) or (AJAH- & AHAH+);
+
+% AJ
+"R233":
+(AJAJ- & AJAH+) or (AJAJ- & AJAJ+) or (AKAJ-) or (AKAJ- & AJAJ+);
+
+% AK
+"R243":
+(ALAK-) or (ALAK- & AKAJ+ & AKAJ+ & AKAJ+);
+
+% AL
+"R252":
+(AMAL-) or (AMAL- & ALAK+ & ALAK+);
+
+% AM
+"R262":
+(BAAM- & AMAL+ & AMAL+);
+
+% AN
+"R271":
+(AGAN-) or (AGAN- & ANAO+ & ANAO+);
+
+% AO
+"R281":
+(ANAO-) or (ANAO- & AOAP+ & AOAP+);
+
+% AP
+"R291":
+(AOAP-) or (AOAP- & APAQ+) or (APAQ+);
+
+% AQ
+"R292":
+(APAQ- & APAQ- & APAQ- & AQAR+ & AQAT+ & AQAT+);
+
+% AR
+"R293":
+(AQAR-) or (ATAR- & ARAS+);
+
+% AS
+"R294":
+(ARAS- & ASBD+ & ASBD+) or (ASBD+);
+
+% AT
+"R295":
+(AQAT-) or (AQAT- & ATAT+) or (ATAT- & ATAR+) or (ATAT- & ATAT+);
+
+% AU
+"R323":
+(AHAU- & AUAU+) or (AUAU- & AUAU+) or (AUAU- & AUAX+);
+
+% AV
+"R33":
+(AWAV- & AWAV- & AWAV- & AVAW+ & AVAC+);
+
+% AW
+"R34":
+(AVAW- & AWAW+) or (AWAV+) or (AWAW-) or (AWAW- & AWAV+) or (AWAW- & AWAW+) or (BJAW-) or (BJAW- & AWAW+);
+
+% AX
+"R342":
+(AUAX- & AXAY+) or (AXAY+);
+
+% AY
+"R352":
+(AXAY- & AXAY- & AYAZ+ & AYAZ+ & AYAZ+);
+
+% AZ
+"R361":
+(AYAZ-) or (AYAZ- & AZBN+ & AZBN+ & AZBN+);
+
+% BA
+"R373":
+(BCBA- & BBBA- & BCBA- & BAAM+);
+
+% BB
+"R382":
+(BBBA+);
+
+% BC
+"R392":
+(BCBA+) or (BDBC- & BDBC- & BDBC- & BCBA+);
+
+% BD
+"R394":
+(ASBD- & ASBD-) or (ASBD- & BDBC+) or (BDBC+);
+
+% BE
+"R413":
+(BEBE- & BEBE+) or (BEBE- & BEBQ+) or (BFBE- & BEBE+) or (BFBE- & BEBE- & BEBE+);
+
+% BF
+"R423":
+(BFBE+) or (BFBF- & BFBE+) or (BFBF- & BFBF+) or (BHBF- & BFBF+);
+
+% BG
+"R432":
+(BKBG- & BGBH+ & BGBH+ & BGBH+);
+
+% BH
+"R433":
+(BGBH-) or (BGBH- & BHBF+);
+
+% BJ
+"R44":
+(BJAW+ & BJAW+ & BJAW+);
+
+% BK
+"R442":
+(BLBK-) or (BLBK- & BKBG+);
+
+% BL
+"R452":
+(BMBL- & BLBK+ & BLBK+);
+
+% BM
+"R462":
+(BOBM- & BMBL+);
+
+% BN
+"R471":
+(AZBN-) or (AZBN- & BNBP+);
+
+% BO
+"R472":
+(BPBO- & BPBO- & BPBO- & BOBM+);
+
+% BP
+"R481":
+(BNBP- & BPBP+) or (BPBO+) or (BPBP- & BPBO+) or (BPBP- & BPBP+);
+
+% BQ
+"R513":
+(BEBQ- & BQBQ+) or (BQBQ- & BQBQ+) or (BQBQ- & BQBR+) or (BQBR+);
+
+% BR
+"R522":
+(BQBR- & BQBR- & BQBR- & BRBS+);
+
+% BS
+"R532":
+(BRBS- & BSBU+);
+
+% BT
+"R541":
+(BUBT- & BTBV+);
+
+% BU
+"R542":
+(BSBU- & BUBT+);
+
+% BV
+"R551":
+(BTBV- & BVCC+);
+
+% BW
+"R603":
+(BYBW- & BWBW- & BWBY+ & BWCM+) or (BYBW- & BYBW- & BYBW- & BWBW+);
+
+% BX
+"R612":
+(BZBX- & BZBX- & BZBX- & BXBY+ & BXBY+ & BXBY+);
+
+% BY
+"R613":
+(BWBY-) or (BXBY-) or (BXBY- & BYBY+) or (BYBW+) or (BYBY- & BYBW+) or (BYBY- & BYBY+);
+
+% BZ
+"R622":
+(BZBX+) or (CABZ- & BZBX+);
+
+% CA
+"R632":
+(CBCA-) or (CBCA- & CABZ+);
+
+% CB
+"R642":
+(CDCB- & CBCA+ & CBCA+ & CBCA+);
+
+% CC
+"R650":
+(BVCC- & CCCF+ & CCCE+ & CCCE+);
+
+% CD
+"R652":
+(CRCD- & CDCB+);
+
+% CE
+"R661":
+(CCCE-) or (CCCE- & CECF+) or (CRCE-);
+
+% CF
+"R662":
+(CCCF-) or (CECF- & CFCH+ & CFCJ+);
+
+% CG
+"R671":
+(CGCG- & CGCG+) or (CGCG- & CGCS+) or (CHCG- & CGCG+);
+
+% CH
+"R672":
+(CFCH-) or (CHCH- & CHCG+) or (CJCH-) or (CJCH- & CHCH+);
+
+% CJ
+"R673":
+(CFCJ- & CJCH+ & CJCH+ & CJCH+);
+
+% CK
+"R703":
+(CKCK- & CKCK+) or (CKCK- & CKCL+) or (CKCL+) or (CKCM+) or (CMCK-) or (CMCK- & CKCK+);
+
+% CL
+"R712":
+(CKCL- & CKCL- & CKCL- & CLCN+);
+
+% CM
+"R713":
+(CKCM- & BWCM- & CMCK+ & CMCK+ & CMCK+);
+
+% CN
+"R721":
+(CLCN- & CNCO+ & CNCO+ & CNCO+);
+
+% CO
+"R731":
+(CNCO-) or (CNCO- & COCQ+);
+
+% CP
+"R740":
+(CQCP- & CPCT+ & CPCT+ & CPCT+);
+
+% CQ
+"R741":
+(COCQ- & CQCP+);
+
+% CR
+"R761":
+(CSCR- & CSCR- & CSCR- & CRCE+ & CRCD+);
+
+% CS
+"R771":
+(CGCS- & CSCR+) or (CSCR+);
+
+% CT
+"R850":
+(CPCT-) or (CPCT- & CTCT+) or (CTCT- & CTCT+) or (CTCT- & CTCU+);
+
+% CU
+"R860":
+(CTCU- & CUCV+ & CUCV+ & CUCV+) or (CUCV+ & CUCV+ & CUCV+);
+
+% CV
+"R861":
+(CUCV-) or (CUCV- & CVCV+) or (CVCV- & CVCV+) or (CVCV- & CVCW+) or (CVCW+);
+
+% CW
+"R872":
+(CVCW- & CVCW- & CVCW- & CWDE+) or (CWDE+);
+
+% CX
+"R902":
+(CXCY+) or (CZCX- & CXCY+) or (CZCX- & CZCX-);
+
+% CY
+"R903":
+(CXCY- & CYCY+) or (CXCY- & CYCY- & CYCY+) or (CYCY-) or (CYCY- & CYCY+);
+
+% CZ
+"R912":
+(CZCX+) or (DACZ-) or (DACZ- & CZCX+ & CZCX+);
+
+% DA
+"R922":
+(DCDA-) or (DCDA- & DACZ+ & DACZ+ & DACZ+);
+
+% DB
+"R931":
+(DDDB- & DBDC+);
+
+% DC
+"R932":
+(DBDC- & DCDA+ & DCDA+);
+
+% DD
+"R955":
+(DHDD- & DNDD- & DDDB+);
+
+% DE
+"R972":
+(CWDE- & CWDE- & DEDF+);
+
+% DF
+"R973":
+(DEDF- & DFDG+);
+
+% DG
+"R974":
+(DFDG- & DGDH+ & DGDH+);
+
+% DH
+"R975":
+(DGDH-) or (DGDH- & DHDJ+) or (DHDD+);
+
+% DJ
+"R976":
+(DHDJ- & DJDK+ & DJDJ+) or (DJDJ- & DJDK+) or (DJDK+);
+
+% DK
+"R977":
+(DJDK-) or (DJDK- & DJDK- & DJDK- & DKDL+) or (DKDL+);
+
+% DL
+"R978":
+(DKDL- & DKDL- & DKDL- & DLDM+ & DLDM+) or (DLDM+);
+
+% DM
+"R979":
+(DLDM- & DLDM-) or (DLDM- & DMDN+) or (DMDN+) or (DNDM-);
+
+% DN
+"R989":
+(DMDN- & DMDN- & DMDN- & DNDN+) or (DNDN- & DNDM+ & DNDD+) or (DNDN- & DNDN+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 87 word clusters, 87 Link Grammar rules.

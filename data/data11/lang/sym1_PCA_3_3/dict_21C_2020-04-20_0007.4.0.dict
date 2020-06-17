@@ -1,0 +1,91 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:10 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0":
+(BB+) or (BB- & BB+) or (BB- & BW+);
+
+% C
+"R1":
+(CC+) or (CC-) or (CC- & CC+) or (CC- & CU+) or (UC- & CC+);
+
+% D
+"R10":
+(DD- & DD+) or (DD- & DF+ & DG+) or (FD- & FD- & FD- & FD- & FD- & FD- & FD- & FD- & FD- & FD- & FD- & FD- & DD+);
+
+% E
+"R12":
+(EE- & EE+) or (EE- & EF+) or (EE- & ET+) or (GE- & EE+);
+
+% F
+"R13":
+(DF- & FF+) or (EF- & FD+) or (FD+) or (FF-) or (FF- & FF+);
+
+% G
+"R15":
+(DG- & GG+) or (GG+) or (GG-) or (GG- & GE+) or (GG- & GG+);
+
+% H
+"R16":
+(HH+) or (HH-) or (HH- & HH+) or (HH- & HJ+) or (HJ+) or (JH- & HH+) or (SH- & HH+);
+
+% J
+"R17":
+(HJ- & JJ+) or (HJ- & JJ- & JJ+) or (JJ-) or (JJ- & JH+) or (JJ- & JJ+);
+
+% K
+"R18":
+(KK-) or (KK- & KK+) or (KK- & KL+) or (KK- & KR+) or (LK- & KK+) or (LK- & KK- & KK+);
+
+% L
+"R19":
+(KL- & LL+) or (LK+) or (LL+) or (LL-) or (LL- & LK+) or (LL- & LK+ & LL+) or (LL- & LL+) or (NL-) or (NL- & LL+);
+
+% M
+"R2":
+(MM-) or (MM- & MM+) or (MM- & MU+) or (MM- & MV+) or (TM- & MM+) or (VM- & MM+) or (VM- & MM- & MM+);
+
+% N
+"R20":
+(NN- & NL+) or (NN- & NL+ & NN+) or (NN- & NN+) or (ON-) or (ON- & NN+);
+
+% O
+"R21":
+(PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & PO- & OP+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+ & ON+);
+
+% P
+"R22":
+(OP- & PP+) or (PO+) or (PP-) or (PP- & PO+) or (PP- & PP+) or (SP- & PP+);
+
+% Q
+"R23":
+(QQ- & QQ+) or (QQ- & QS+) or (SQ- & QQ+);
+
+% R
+"R24":
+(KR- & RR+) or (RR- & RR+) or (RR- & RS+);
+
+% S
+"R25":
+(QS- & SS+) or (RS- & SS+) or (SS+) or (SS- & SH+) or (SS- & SP+) or (SS- & SQ+) or (SS- & SS+);
+
+% T
+"R3":
+(ET- & TT+) or (TT+) or (TT-) or (TT- & TM+) or (TT- & TT+) or (TT- & TU+) or (TT- & TW+) or (UT- & TT+);
+
+% U
+"R4":
+(CU- & UU+) or (MU- & UU+) or (TU- & UU+) or (UU- & UC+) or (UU- & UT+) or (UU- & UT+ & UU+) or (UU- & UU+);
+
+% V
+"R5":
+(MV- & VV+) or (VV+) or (VV-) or (VV- & VM+) or (VV- & VV+) or (WV- & VV+);
+
+% W
+"R7":
+(TW- & BW- & WW+) or (WW- & WV+) or (WW- & WW+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 21 word clusters, 21 Link Grammar rules.

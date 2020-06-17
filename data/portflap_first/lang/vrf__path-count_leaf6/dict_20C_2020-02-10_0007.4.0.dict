@@ -1,0 +1,87 @@
+% Grammar Learner v.0.7 2020-02-10 09:12:08 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (HB-) or (HB- & BB+) or (HB- & BC+) or (QB-) or (QB- & BC+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CD+) or (BC- & BC- & BC- & CE+) or (BC- & BC- & BC- & CF+) or (BC- & CD+) or (CE+);
+
+% D
+"ABA":
+(CD- & DH+) or (CD- & DH+ & DE+);
+
+% E
+"ABB":
+(CE- & DE- & EL+) or (CE- & EJ+) or (CE- & EM+) or (CE- & EM+ & EM+) or (CE- & EM+ & EM+ & EM+) or (JE-) or (JE- & EM+);
+
+% F
+"ABC":
+(CF- & FP+);
+
+% G
+"ACC":
+(KG- & GV+ & GV+ & GV+);
+
+% H
+"BAA":
+(DH-) or (DH- & HB+) or (DH- & HB+ & HB+ & HB+) or (LH- & HB+) or (LH- & HB+ & HB+) or (LH- & HB+ & HB+ & HB+);
+
+% J
+"BAB":
+(LJ- & EJ- & JE+) or (LJ- & EJ- & JE+ & JL+);
+
+% K
+"BAC":
+(LK- & KG+);
+
+% L
+"BBA":
+(EL- & LH+) or (LJ+) or (ML- & JL- & LH+) or (ML- & LH+) or (ML- & LJ+) or (ML- & ML- & ML- & LH+) or (ML- & ML- & ML- & LK+);
+
+% M
+"BBB":
+(EM-) or (EM- & ML+) or (EM- & MM+) or (EM- & MN+) or (ML+) or (MM- & ML+) or (MM- & MM+) or (MN+) or (RM-) or (RM- & ML+) or (RM- & MM+);
+
+% N
+"BBC":
+(MN- & MN- & MN- & NO+) or (MN- & MN- & MN- & NP+) or (MN- & MN- & NP+) or (ON- & NO+) or (ON- & NP+);
+
+% O
+"BCB":
+(NO- & OR+) or (NO- & OR+ & ON+) or (SO- & OR+ & ON+);
+
+% P
+"BCC":
+(FP- & PV+ & PV+ & PV+) or (NP- & PV+ & PV+ & PV+);
+
+% Q
+"CAA":
+(TQ- & QB+ & QB+ & QB+);
+
+% R
+"CBB":
+(OR-) or (OR- & RM+) or (OR- & RM+ & RM+ & RM+) or (UR- & RM+ & RM+ & RM+);
+
+% S
+"CBC":
+(US- & SO+);
+
+% T
+"CCA":
+(VT- & TQ+);
+
+% U
+"CCB":
+(VU- & UR+) or (VU- & US+) or (VU- & VU- & UR+) or (VU- & VU- & VU- & UR+);
+
+% V
+"CCC":
+(GV-) or (GV- & VU+) or (PV-) or (PV- & VT+) or (PV- & VU+) or (PV- & VV+) or (VU+) or (VV- & VU+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 20 word clusters, 20 Link Grammar rules.

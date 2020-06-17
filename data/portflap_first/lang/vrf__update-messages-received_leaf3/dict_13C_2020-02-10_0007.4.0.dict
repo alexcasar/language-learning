@@ -1,0 +1,59 @@
+% Grammar Learner v.0.7 2020-02-10 09:12:07 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (EB-) or (EB- & BB+);
+
+% C
+"AAC":
+(BC- & BC- & BC- & CD+);
+
+% D
+"ACC":
+(CD- & DO+ & DO+ & DO+);
+
+% E
+"BAA":
+(FE- & EB+ & EB+ & EB+);
+
+% F
+"BBA":
+(GF- & GF- & GF- & FE+);
+
+% G
+"BBB":
+(GF+) or (GG- & GF+) or (GG- & GG+) or (GG- & GJ+) or (JG- & GF+) or (LG- & GG+);
+
+% H
+"BBC":
+(HJ+) or (LH- & HK+);
+
+% J
+"BCB":
+(HJ- & GJ- & JL+ & JG+);
+
+% K
+"BCC":
+(HK- & NK- & KO+ & KO+ & KO+) or (MK- & KO+) or (MK- & KO+ & KO+ & KO+);
+
+% L
+"CBB":
+(JL-) or (LH+) or (NL- & LG+);
+
+% M
+"CBC":
+(NM- & MK+);
+
+% N
+"CCB":
+(ON- & NM+) or (ON- & ON- & NK+) or (ON- & ON- & ON- & NK+) or (ON- & ON- & ON- & NL+) or (ON- & ON- & ON- & NM+);
+
+% O
+"CCC":
+(DO-) or (DO- & ON+) or (KO-) or (KO- & ON+) or (KO- & OO+) or (ON+) or (OO- & ON+) or (OO- & OO+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 13 word clusters, 13 Link Grammar rules.

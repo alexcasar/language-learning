@@ -1,0 +1,55 @@
+% Grammar Learner v.0.7 2020-02-10 09:12:11 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (EB-) or (EB- & BB+);
+
+% C
+"AAC":
+(BC- & BC- & BC- & CD+);
+
+% D
+"ACC":
+(CD- & DN+ & DN+ & DN+);
+
+% E
+"BAA":
+(FE- & EB+ & EB+ & EB+);
+
+% F
+"BBA":
+(GF- & GF- & GF- & FE+);
+
+% G
+"BBB":
+(GF+) or (GG- & GF+) or (GG- & GG+) or (KG- & GG+);
+
+% H
+"BBC":
+(KH- & HJ+);
+
+% J
+"BCC":
+(HJ- & JN+ & JN+ & JN+) or (LJ- & JN+) or (LJ- & JN+ & JN+ & JN+);
+
+% K
+"CBB":
+(MK- & KG+) or (MK- & KH+);
+
+% L
+"CBC":
+(ML- & LJ+);
+
+% M
+"CCB":
+(NM- & ML+) or (NM- & NM- & MK+) or (NM- & NM- & NM- & MK+) or (NM- & NM- & NM- & ML+);
+
+% N
+"CCC":
+(DN-) or (DN- & NM+) or (DN- & NN+) or (JN-) or (JN- & NM+) or (JN- & NN+) or (NM+) or (NN- & NM+) or (NN- & NN+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 12 word clusters, 12 Link Grammar rules.

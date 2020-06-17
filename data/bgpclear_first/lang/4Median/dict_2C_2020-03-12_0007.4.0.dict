@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-03-12 03:53:53 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA" "AAB" "AAC" "ABA" "ABB" "ABC" "ACA" "ACB" "ACC" "BAA" "BAB" "BAC" "BBA" "BBB" "BCA" "BCB" "BCC" "CAA" "CAB" "CAC" "CBA" "CBB" "CBC" "CCA" "CCB" "CCC":
+(BB+) or (BB+ & BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB+) or (BB- & BB- & BB+ & BB+) or (BB- & BB- & BB+ & BB+ & BB+) or (BB- & BB- & BB- & BB+) or (BB- & BB- & BC+) or (BB- & BC+) or (BB- & CB- & BB+) or (BC+) or (CB-) or (CB- & BB+) or (CB- & BB+ & BB+);
+
+% C
+"BBC":
+(BC-) or (BC- & BC- & BC- & CB+) or (BC- & BC- & BC- & CB+ & CB+) or (BC- & BC- & CB+) or (BC- & CB+) or (BC- & CB+ & CB+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

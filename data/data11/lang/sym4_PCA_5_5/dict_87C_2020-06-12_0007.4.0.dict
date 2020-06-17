@@ -1,0 +1,355 @@
+% Grammar Learner v.0.7 2020-06-12 00:17:42 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R1021":
+[ACAB- & DDAB- & BPAB- & DDAB- & DDAB- & BPAB- & DDAB- & ABBP+ & ABBP+]1.0 or [BWAB- & DDAB- & DDAB- & BPAB- & DDAB- & BPAB- & ABDD+]1.0 or [DDAB- & BPAB- & BPAB- & DFAB- & ABBP+]1.0;
+
+% AC
+"R1024":
+[ACAB+]0.1 or [ACBP+]0.14285714285714285 or [ACBW+]1.0 or [BPAC-]0.5 or [CXAC-]0.1111111111111111 or [CXAC- & ACBW+]1.0 or [DBAC-]1.0 or [DBAC- & ACBW+ & ACBW+ & ACBW+]1.0 or [DCAC-]0.25 or [DDAC- & ACBW+ & ACBX+]1.0;
+
+% AD
+"R1095":
+[AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & AXAD- & ADAG+ & ADAG+]1.0;
+
+% AE
+"R1110":
+[AGAE-]0.1 or [AGAE- & AEAF+]1.0;
+
+% AF
+"R1115":
+[AEAF- & AFAF+]1.0 or [AFAF- & AFAF+]0.02 or [AFAF- & AFCW+]0.5;
+
+% AG
+"R1120":
+[ADAG-]1.0 or [ADAG- & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+ & AGAE+]1.0;
+
+% AH
+"R1303":
+[AHAH+]0.5 or [AHAH- & AHAH+]0.012195121951219513 or [AHAH- & AHAP+]0.25 or [AHAH- & AHCZ+]0.5 or [CYAH- & AHAH+]0.5 or [CZAH- & AHAH+]0.5;
+
+% AJ
+"R1381":
+[AJAJ- & AJAJ+]0.058823529411764705 or [AJAJ- & AJAN+]1.0 or [AJAN+]0.07142857142857142 or [DAAJ- & AJAJ+]0.5;
+
+% AK
+"R1382":
+[BXAK- & BSAK- & BSAK- & CAAK- & BSAK- & CAAK- & BSAK- & BXAK- & BXAK- & AKAM+ & AKAM+ & AKAM+ & AKAM+ & AKAM+]1.0;
+
+% AL
+"R1387":
+[AMAL-]0.2 or [AMAL- & ALDA+]0.14285714285714285 or [AMAL- & AMAL-]0.5 or [DAAL- & AMAL- & AMAL-]1.0;
+
+% AM
+"R1389":
+[AKAM-]0.5 or [AKAM- & AMAL+ & AMAL+]1.0 or [AKAM- & AMDA+]1.0 or [AKAM- & AMDA+ & AMAL+ & AMAL+ & AMAL+ & AMAL+]1.0 or [AMAL+]0.25 or [AMDA+ & AMAL+ & AMAL+ & AMAL+ & AMAL+ & AMAL+ & AMAL+]1.0;
+
+% AN
+"R1427":
+[AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & AJAN- & ANAS+]1.0;
+
+% AO
+"R1428":
+[AOAO- & AOAO+]0.5 or [AOAO- & AOAV+]0.5 or [AOAV+]0.25 or [APAO- & AOAO+]1.0 or [APAO- & AOAO-]1.0 or [APAO- & AOAR+]1.0 or [APAO- & APAO- & AOAU+]1.0 or [APAO- & APAO- & APAO- & APAO- & APAO- & APAO- & AOAO+]1.0;
+
+% AP
+"R1429":
+[AHAP- & APAO+]0.5 or [AHAP- & APAP+]0.25 or [APAO+]0.125 or [APAP-]0.3333333333333333 or [APAR+]1.0 or [APAR+ & APAO+]1.0 or [APAU+]0.5;
+
+% AQ
+"R1434":
+[AQBQ+ & AQBR+]1.0 or [AQBR+]0.125 or [AUAQ- & AUAQ- & AVAQ- & AVAQ-]1.0 or [AUAQ- & AVAQ- & AVAQ- & AVAQ- & AQAV+]1.0;
+
+% AR
+"R1439":
+[AOAR- & ARAU+]1.0 or [APAR-]0.3333333333333333 or [ARAV+]0.25;
+
+% AS
+"R1937":
+[ANAS- & ASAT+ & ASAT+]1.0;
+
+% AT
+"R1961":
+[ASAT-]1.0 or [ASAT- & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+ & ATCZ+]1.0;
+
+% AU
+"R2059":
+[AOAU- & AUAV+]0.5 or [APAU- & ARAU- & AUAV+]1.0 or [APAU- & AUAV+]1.0 or [AUAQ+]0.25 or [AUAV+]0.25 or [AUAV+ & AUAV+]1.0 or [AUBQ+]0.5;
+
+% AV
+"R2064":
+[AOAV- & AUAV-]1.0 or [AOAV- & AUAV- & AUAV- & AUAV- & AVAQ+]1.0 or [AQAV- & AVAQ+]1.0 or [ARAV- & AVAQ+]1.0 or [AUAV- & AUAV- & AVAQ+]1.0 or [AUAV- & AVBR+]1.0 or [AVAQ+]0.25 or [AVBR+]0.125;
+
+% AW
+"R217":
+[AWAW+]0.5 or [AWAW- & AWAW+]0.05 or [AWAW- & AWCS+ & AWAW+]0.3333333333333333 or [AWAW- & AWCS+ & AWCS+ & AWAW+]1.0 or [AWAW- & AWCS+ & AWCS+ & AWCS+ & AWCS+ & AWAW+]1.0 or [AWAW- & AWCU+]0.5 or [AWAW- & AWDL+]0.5 or [AWCS+ & AWAW+]0.5 or [AWCU+]0.5 or [AWDL+]0.16666666666666666 or [CSAW- & AWAW- & AWDL+]1.0 or [CSAW- & BDAW- & AWAW+]1.0;
+
+% AX
+"R2280":
+[AXAD+]0.07142857142857142 or [AXAX- & AXAD+]1.0 or [AXAX- & AXAX+]0.02631578947368421 or [AXAX- & AXBG+]0.5 or [BGAX- & AXAX+]0.3333333333333333 or [BGAX- & BJAX-]1.0 or [BHAX- & BJAX-]1.0 or [BJAX-]0.07142857142857142 or [BJAX- & AXAX+]1.0;
+
+% AY
+"R2334":
+[BAAY- & BCAY- & BYAY- & AZAY- & BYAY- & BYAY-]1.0 or [BYAY- & BCAY- & AYBA+ & AYBA+ & AYBA+ & AYBA+ & AYBA+ & AYBA+ & AYBA+ & AYBA+]1.0;
+
+% AZ
+"R2339":
+[AZAY+]0.2 or [AZBA+]0.3333333333333333 or [AZBC+]0.25 or [AZBY+]0.5 or [BAAZ-]0.3333333333333333 or [BAAZ- & AZBC+]0.5 or [BBAZ-]1.0 or [BBAZ- & AZBA+]1.0;
+
+% BA
+"R2352":
+[AYBA-]0.3333333333333333 or [AYBA- & BABA+]1.0 or [AYBA- & BABB+]1.0 or [AZBA- & AYBA-]1.0 or [AZBA- & BYBA- & BABA+]1.0 or [BAAY+]0.2 or [BAAZ+ & BABZ+]0.5 or [BABA- & BABA+]1.0 or [BABB+ & BABZ+]1.0 or [BABZ+]0.25 or [BBBA- & BABA-]1.0 or [BCBA- & AYBA-]1.0 or [BYBA- & AYBA- & BAAZ+]1.0 or [BYBA- & BABA- & BABZ+]1.0;
+
+% BB
+"R2358":
+[BABB-]0.3333333333333333 or [BBAZ+]1.0 or [BBBA+]0.3333333333333333 or [BBBZ+]0.25 or [BCBB-]0.25 or [BCBB- & BCBB- & BBAZ+]1.0 or [BCBB- & BCBB- & BCBB-]0.5;
+
+% BC
+"R2359":
+[AZBC-]1.0 or [AZBC- & AZBC-]1.0 or [AZBC- & BCBB+]1.0 or [AZBC- & BCBB+ & BCBY+]1.0 or [AZBC- & BCBY+]1.0 or [BCAY+]0.2 or [BCBA+]0.3333333333333333 or [BCBB+]0.25 or [BCBB+ & BCAY+]1.0 or [BCBY+]0.5 or [BYBC- & BCBB+]1.0 or [BYBC- & BCBY+ & BCBB+]1.0;
+
+% BD
+"R236":
+[BDBD- & BDAW+]1.0 or [BDBD- & BDBD+]0.030303030303030304 or [CWBD- & BDBD+]0.5;
+
+% BE
+"R2389":
+[BEBG+ & BEBH+]1.0 or [BEBH+]0.3333333333333333 or [BHBE- & CFBE- & CFBE- & CFBE- & BEBH+ & BEBH+ & BEBH+ & BEBH+]1.0;
+
+% BF
+"R2394":
+[BGBF- & CFBF- & CFBF- & BFCE+ & BFCB+ & BFCE+ & BFCB+ & BFCE+ & BFCE+ & BFCE+ & BFCB+ & BFCE+ & BFCE+ & BFCE+ & BFCB+ & BFCB+ & BFCB+]1.0;
+
+% BG
+"R2411":
+[AXBG- & BGBG+]0.5 or [BEBG-]0.5 or [BGAX+]1.0 or [BGBF+]0.5 or [BGBG+]0.3333333333333333 or [BGBG-]0.5 or [BGBG- & BGAX+]0.3333333333333333 or [BGBG- & BGBG+]0.027777777777777776 or [BGBG- & BGBH+]1.0 or [BGBH+]0.3333333333333333 or [BGBJ+]0.5;
+
+% BH
+"R2412":
+[BEBH-]0.5 or [BEBH- & BEBH-]0.5 or [BGBH- & BHAX+]0.3333333333333333 or [BGBH- & BHBH-]1.0 or [BHBE+]0.25 or [CFBH- & BEBH- & BEBH- & BHBH+]1.0;
+
+% BJ
+"R2414":
+[BGBJ- & CGBJ- & CDBJ- & CDBJ- & BJAX+ & BJAX+ & BJAX+]1.0 or [CDBJ-]0.5 or [CDBJ- & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+ & BJAX+]1.0;
+
+% BK
+"R2570":
+[BKBK+]0.25 or [BKBK- & BKBK+]0.041666666666666664 or [BKBK- & BKBL+]0.5 or [BKBK- & BKBL+ & BKBK+]1.0 or [BKBK- & BKBO+]0.5 or [BKBL+]0.5 or [BKBO+]0.5 or [BOBK- & BKBK+]1.0 or [BOBK- & BKBK- & BKBK+]1.0;
+
+% BL
+"R2571":
+[BKBL- & BLBM+]0.5 or [BKBL- & BLBO+ & BLBM+]1.0 or [BKBL- & BLBO+ & BLBO+]1.0 or [BKBL- & BLBO+ & BLBO+ & BLBO+]1.0 or [BLBM+]0.25 or [BLBO+]0.5 or [BLBO+ & BLBM+]1.0;
+
+% BM
+"R2572":
+[BLBM- & BLBM- & BLBM- & BLBM- & BLBM- & BLBM- & BLBM- & BLBM- & BMBN+]1.0 or [BMBN+]0.3333333333333333;
+
+% BN
+"R2573":
+[BNBN-]1.0 or [BNBN- & BNBN+]0.5 or [BOBN- & BOBN- & BMBN- & BMBN- & BNBN+]1.0;
+
+% BO
+"R2574":
+[BKBO- & BLBO-]0.5 or [BKBO- & BLBO- & BOBK+]1.0 or [BLBO-]0.3333333333333333 or [BLBO- & BLBO-]1.0 or [BOBK+]0.25 or [BOBN+]0.3333333333333333;
+
+% BP
+"R271":
+[ACBP- & BWBP- & BPAC+]1.0 or [BPAB+]0.1 or [BPDB+]0.5 or [BWBP- & ABBP-]1.0 or [BWBP- & ABBP- & BPAB+]0.5 or [BWBP- & ABBP- & BPDC+]1.0 or [BWBP- & BPAB+]0.25 or [BWBP- & BPCX+]1.0 or [BWBP- & BPDC+]1.0;
+
+% BQ
+"R2745":
+[AUBQ- & AQBQ-]1.0 or [BRBQ-]0.3333333333333333 or [BRBQ- & BQBR+]1.0 or [BRBQ- & BRBQ-]1.0;
+
+% BR
+"R2749":
+[AQBR- & AQBR- & AVBR- & AVBR- & AVBR- & AVBR- & AVBR- & AVBR- & AVBR- & AQBR- & BRBQ+ & BRBQ+ & BRBQ+ & BRBQ+ & BRBQ+]1.0 or [BQBR-]1.0 or [BRBQ+]0.5;
+
+% BS
+"R290":
+[BSAK+]0.2 or [BWBS- & BSAK+]1.0 or [BXBS- & BSAK+]0.5;
+
+% BT
+"R2937" "R3062":
+[BVBT-]0.1;
+
+% BU
+"R2940":
+[BZBU- & BUBV+]1.0;
+
+% BV
+"R2949":
+[BUBV- & BVBT+ & BVBT+ & BVCJ+ & BVBT+ & BVBT+ & BVBT+ & BVCG+ & BVBT+ & BVCG+ & BVCJ+ & BVCH+ & BVCG+ & BVCJ+]1.0;
+
+% BW
+"R295":
+[ACBW-]0.2 or [ACBW- & BWBP+]1.0 or [ACBW- & BWDD+]1.0 or [BWAB+]0.1 or [BWBP+]0.14285714285714285 or [BWBS+]0.5 or [BWBX+]0.25 or [BWCX+]1.0 or [BWDD+]0.3333333333333333 or [CXBW-]0.1111111111111111 or [DFBW-]0.16666666666666666 or [DFBW- & BWBX+]1.0;
+
+% BX
+"R296":
+[ACBX-]0.2 or [BWBX- & BXBX+]1.0 or [BWBX- & CXBX- & BXAK+]1.0 or [BXAK+]0.2 or [BXBS+]0.5 or [BXBX-]1.0 or [BXCA+]1.0 or [BXDB+]0.5 or [BXDC+]0.25 or [CXBX-]0.1111111111111111 or [CXBX- & BXDC+]1.0;
+
+% BY
+"R2964":
+[AZBY- & BYBA+]1.0 or [BCBY- & BCBY- & BCBY-]0.5 or [BCBY- & BYBA+ & BYBC+]1.0 or [BYAY+]0.2 or [BYAY+ & BYAY+]1.0 or [BYBC+ & BYBA+]1.0;
+
+% BZ
+"R2974":
+[BBBZ- & BBBZ- & BABZ- & BABZ- & BABZ- & BABZ- & BABZ- & BABZ- & BZBU+]1.0;
+
+% CA
+"R299":
+[BXCA- & CAAK+]0.5 or [CAAK+]0.2;
+
+% CB
+"R3012":
+[BFCB-]0.07692307692307693 or [CBCC+]0.07692307692307693 or [CBCD+]0.2 or [CBCF+]0.3333333333333333 or [CCCB-]0.25 or [CECB- & CBCF+]1.0 or [CECB- & CCCB-]1.0;
+
+% CC
+"R3013":
+[CBCC- & CCCB+ & CCCD+]1.0 or [CBCC- & CECC- & CCCD+]1.0 or [CCCB+]0.3333333333333333 or [CCCB+ & CCCD+]1.0 or [CCCD+]0.2 or [CECC-]1.0 or [CECC- & CCCB+ & CCCD+]1.0 or [CECC- & CCCD+]1.0 or [CECC- & CECC- & CECC- & CCCD+]1.0 or [CECC- & CECC- & CECC- & CJCC- & CCCD+ & CCCB+]1.0 or [CECC- & CECC- & CJCC-]1.0 or [CJCC-]0.25;
+
+% CD
+"R3014":
+[CBCD- & CCCD- & CCCD- & CCCD- & CCCD-]1.0 or [CBCD- & CDCE+ & CDBJ+]1.0 or [CCCD- & CCCD- & CCCD- & CCCD- & CCCD- & CDBJ+ & CDBJ+ & CDBJ+]1.0 or [CECD- & CJCD-]1.0 or [CJCD-]0.25;
+
+% CE
+"R3019":
+[BFCE-]0.07692307692307693 or [BFCE- & CECC+]1.0 or [CDCE-]0.5 or [CECB+]0.3333333333333333 or [CECC+]0.07692307692307693 or [CECD+]0.2 or [CECF+]0.3333333333333333;
+
+% CF
+"R3037":
+[CBCF- & CBCF- & CBCF- & CFBF+]1.0 or [CECF- & CFBH+]1.0 or [CFBE+]0.25 or [CFBF+]0.5 or [CFCH+]1.0;
+
+% CG
+"R3038":
+[BVCG-]0.1 or [CGBJ+]0.5 or [CGCJ+]1.0;
+
+% CH
+"R3039":
+[CFCH- & BVCH-]1.0;
+
+% CJ
+"R3044":
+[BVCJ-]0.1 or [BVCJ- & CJCC+ & CJCD+ & CJCD+ & CJCC+ & CJCC+ & CJCC+ & CJCC+]1.0 or [CGCJ- & BVCJ-]1.0;
+
+% CK
+"R3102":
+[CKCM+ & CKCN+]1.0 or [CKCN+]1.0 or [CKCO+]0.25 or [CLCK-]0.16666666666666666 or [CLCK- & CKCN+]1.0 or [CNCK-]0.0625 or [CPCK- & CLCK-]0.5;
+
+% CL
+"R3103":
+[COCL- & CQCL- & CLCK+ & CLCK+ & CLCN+ & CLCK+ & CLCK+ & CLCK+ & CLCK+ & CLCK+ & CLCK+ & CLCK+]1.0;
+
+% CM
+"R3107":
+[CKCM- & CMCP+ & CMCM+]1.0 or [CMCM-]0.5 or [CMCM- & CMCM+]1.0 or [CMCP+]0.5 or [CNCM-]0.0625;
+
+% CN
+"R3108":
+[CKCN- & CKCN- & CKCN- & CNCP+ & CNCM+ & CNCK+ & CNCM+ & CNCK+ & CNCM+ & CNCM+ & CNCM+ & CNCM+ & CNCM+ & CNCM+ & CNCP+ & CNCP+ & CNCM+ & CNCM+]1.0 or [CLCN- & CNCM+]1.0;
+
+% CO
+"R3110":
+[CKCO- & CKCO- & CKCO- & CKCO- & COCQ+]1.0 or [COCP+ & COCL+]1.0 or [COCQ+]0.5;
+
+% CP
+"R3114":
+[CMCP-]0.5 or [CMCP- & CMCP- & CPCK+]1.0 or [CNCP-]0.0625 or [COCP-]1.0 or [CPCK+]1.0;
+
+% CQ
+"R3116":
+[COCQ- & COCQ- & COCQ- & CQCL+]1.0;
+
+% CR
+"R315":
+[CSCR- & CVCR- & DLCR- & DLCR- & CVCR- & CVCR- & CRDG+ & CRDG+ & CRDG+]1.0;
+
+% CS
+"R342":
+[AWCS-]0.09090909090909091 or [CSAW+]0.5 or [CSCR+]0.25 or [CSCT+]0.25 or [CSCU+]0.5 or [CSCV+]0.5 or [CSDK+]0.5 or [CSDL+]0.16666666666666666 or [CSDN+]0.5 or [CTCS-]1.0 or [CUCS-]0.25 or [CVCS- & CSAW+]1.0 or [DMCS-]0.25 or [DNCS-]0.16666666666666666 or [DNCS- & CUCS-]1.0;
+
+% CT
+"R343":
+[CSCT- & DKCT- & CTCS+]1.0 or [DKCT- & DKCT- & DKCT-]1.0 or [DKCT- & DNCT- & DNCT-]1.0 or [DMCT-]0.25;
+
+% CU
+"R344":
+[AWCU- & CUDL+]0.5 or [AWCU- & CUDL+ & CUCV+ & CUDL+ & CUCU+]1.0 or [AWCU- & CUDL+ & CUDL+]1.0 or [CSCU- & CUCU- & CUCS+]1.0 or [CUCS+ & CUCS+ & CUCS+ & CUCS+ & CUDL+]1.0 or [CUDL+]0.16666666666666666;
+
+% CV
+"R349":
+[CSCV- & CVCV- & CVCS+]1.0 or [CUCV- & CVCV+]1.0 or [CVCR+]0.25 or [CVCV+]0.5 or [CVCV-]1.0 or [CVCV- & CVCV+]1.0 or [CVDK+]0.5 or [DKCV-]1.0 or [DNCV-]0.16666666666666666 or [DNCV- & CVCR+]1.0;
+
+% CW
+"R367":
+[AFCW- & CWCW+]0.5 or [CWCW- & CWBD+]0.5 or [CWCW- & CWCW+]0.05555555555555555;
+
+% CX
+"R399":
+[BPCX-]0.5 or [BWCX- & DCCX-]1.0 or [CXAC+ & CXAC+]1.0 or [CXBW+ & CXBX+]1.0 or [CXBX+]0.25 or [CXBX+ & CXAC+ & CXBX+ & CXAC+ & CXAC+]1.0 or [DCCX-]0.25;
+
+% CY
+"R702":
+[CYCY- & CYAH+]0.5 or [CYCY- & CYCY+]0.1111111111111111 or [CZCY- & CYCY+]0.5;
+
+% CZ
+"R703":
+[AHCZ- & CZCZ+]0.5 or [ATCZ-]0.07142857142857142 or [ATCZ- & CZCZ+]1.0 or [CZCZ- & CZAH+]0.5 or [CZCZ- & CZCY+]0.5 or [CZCZ- & CZCZ+]0.018867924528301886;
+
+% DA
+"R756":
+[ALDA-]0.5 or [ALDA- & DADA+]0.25 or [AMDA-]0.2 or [AMDA- & DADA+]0.14285714285714285 or [DAAL+]0.25 or [DADA-]0.25 or [DADA- & DAAJ+]0.5 or [DADA- & DADA+]0.02702702702702703;
+
+% DB
+"R896":
+[BPDB- & DCDB- & DBAC+]1.0 or [BXDB- & DCDB- & DBAC+]1.0;
+
+% DC
+"R897":
+[BPDC- & BXDC- & BXDC- & BXDC- & BXDC- & BXDC- & BPDC- & DCCX+ & DCCX+ & DCDB+ & DCDB+ & DCCX+ & DCCX+ & DCAC+]1.0;
+
+% DD
+"R921":
+[BWDD- & ABDD- & DDAB+]0.5 or [BWDD- & DDAB+]0.25 or [DDAB+]0.1 or [DDAC+]1.0 or [DDDE+]1.0 or [DHDD-]1.0;
+
+% DE
+"R922":
+[DDDE- & DHDE- & DEDF+ & DEDF+]1.0 or [DHDE- & DEDF+]1.0;
+
+% DF
+"R924":
+[DEDF-]0.5 or [DEDF- & DFBW+ & DFBW+ & DFBW+ & DFBW+ & DFAB+]1.0 or [DHDF- & DFBW+ & DFBW+ & DFBW+]1.0;
+
+% DG
+"R945":
+[CRDG-]0.5 or [CRDG- & DGDH+ & DGDH+ & DGDH+ & DGDJ+ & DGDH+ & DGDH+]1.0;
+
+% DH
+"R946":
+[DGDH-]0.25 or [DGDH- & DHDD+ & DHDF+ & DHDE+]1.0 or [DGDH- & DHDE+]1.0;
+
+% DJ
+"R947":
+[DGDJ-]0.25;
+
+% DK
+"R967":
+[CSDK- & DKCV+ & DKDM+]1.0 or [CVDK- & DKDN+]1.0 or [DKCT+]0.25 or [DKCT+ & DKDM+]1.0 or [DKCT+ & DKDN+ & DKDN+ & DKCT+]1.0 or [DKDM+]0.5;
+
+% DL
+"R968":
+[AWDL- & CUDL-]1.0 or [AWDL- & CUDL- & CUDL-]1.0 or [AWDL- & CUDL- & CUDL- & CUDL-]1.0 or [CSDL- & CSDL- & CSDL- & DLCR+]1.0 or [CUDL- & CUDL-]1.0 or [DLCR+]0.25;
+
+% DM
+"R973":
+[DKDM- & DKDM- & DKDM- & DMDN+ & DMDN+ & DMCT+ & DMDN+ & DMCT+ & DMDN+]1.0 or [DKDM- & DMCS+ & DMDN+]1.0 or [DMDN+]0.5;
+
+% DN
+"R974":
+[CSDN- & DKDN-]1.0 or [DKDN- & DMDN- & DMDN-]1.0 or [DKDN- & DNCS+ & DNCV+]1.0 or [DMDN-]0.25 or [DMDN- & DMDN- & DNCS+]1.0 or [DMDN- & DNCS+ & DNCS+ & DNCS+ & DNCT+ & DNCV+]1.0 or [DNCS+]1.0 or [DNCT+]0.25;
+
+<UNKNOWN-WORD>: XXX+;
+
+% 87 word clusters, 87 Link Grammar rules.

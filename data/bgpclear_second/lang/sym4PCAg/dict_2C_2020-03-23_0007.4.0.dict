@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-03-23 04:44:41 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R123" "R124" "R213" "R214" "R215" "R217" "R223" "R23" "R313" "R314" "R413" "R422" "R423" "R432" "R433" "R442" "R452" "R462" "R472" "R481" "R491" "R492" "R513" "R603" "R613" "R702" "R703" "R712" "R722" "R742" "R752" "R762" "R772" "R780" "R781" "R782" "R790" "R803" "R813" "R814" "R824" "R825" "R835" "R836" "R846" "R847" "R857" "R868" "R874" "R879" "R882" "R883" "R885" "R886" "R887" "R888" "R889" "R891" "R903":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB-) or (BB- & BB- & BB+) or (BB- & BB- & BB+ & BB+) or (BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB+ & BB+) or (BB- & BB- & BB- & BB+ & BB+ & BB+) or (BB- & BC+) or (BB- & BC+ & BC+ & BC+) or (CB- & BB+) or (CB- & CB- & CB- & BB+);
+
+% C
+"R216":
+(BC-) or (BC- & CB+) or (BC- & CC+) or (CB+) or (CC- & CB+) or (CC- & CC+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

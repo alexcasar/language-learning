@@ -1,0 +1,111 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:11 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R0":
+(ABBB+) or (AFAB- & ABBB+ & ABBB+ & ABBB+) or (AGAB- & ABAC+) or (AGAB- & ABBB+) or (AGAB- & AGAB- & AGAB- & AGAB- & AGAB- & BBAB- & ABAF+ & ABBB+ & ABBB+ & ABAC+) or (AHAB- & AFAB- & BBAB- & AGAB- & AGAB- & ABAH+ & ABAH+ & ABBB+ & ABBB+ & ABBB+) or (AWAB- & ABBB+ & ABBB+ & ABBB+ & ABBB+ & ABBB+ & ABBB+);
+
+% AC
+"R1":
+(ACAC- & ACAC+) or (ACAC- & ACAD+ & ACAC+) or (ACAC- & ACAH+ & ACAC+) or (ACAC- & ACAH+ & ACAH+ & ACAC+) or (ACAC- & ACAH+ & ACAX+) or (AGAC- & ABAC- & AFAC- & AHAC- & ABAC- & ACAH+ & ACAC+);
+
+% AD
+"R10":
+(ACAD-) or (ADAD+) or (ADAD-) or (ADAD- & ADAD+) or (ADAD- & ADAE+) or (ADAD- & ADAH+) or (ADAD- & ADAO+) or (ADAH+) or (AEAD-) or (AEAD- & ADAD+) or (AEAD- & ADAD- & ADAD+) or (AEAD- & ADAH+) or (AEAD- & ADAO+) or (AHAD-) or (AHAD- & ADAD+) or (BBAD-);
+
+% AE
+"R11":
+(ADAE- & AEAE+) or (AEAD+) or (AEAE+) or (AEAE- & AEAD+) or (AEAE- & AEAD+ & AEAE+) or (AEAE- & AEAE+);
+
+% AF
+"R12":
+(ABAF- & AFAF+) or (AFAB+) or (AFAC+) or (AGAF-) or (AHAF- & AFAB+) or (AVAF- & AFAF-) or (AVAF- & AGAF-);
+
+% AG
+"R13":
+(AGAB+) or (AGAC+) or (AGAF+ & AGAB+) or (AGAF+ & AGAF+) or (AGAG- & AGAH+ & AGAH+ & AGAH+) or (AGAH+) or (AGAH+ & AGBB+) or (AGBB+) or (AHAG- & AGAB+) or (AHAG- & AGAG- & AGAG+) or (AHAG- & AHAG- & AHAG- & AHAG- & AHAG- & AGAG+);
+
+% AH
+"R14":
+(ABAH-) or (ACAH-) or (ADAH- & ACAH-) or (ADAH- & AHAG+) or (ADAH- & BBAH- & AHAG+) or (AGAH-) or (AGAH- & ACAH- & AHAD+) or (AGAH- & AHAD+) or (AGAH- & AHAD+ & AHAV+) or (AHAB+) or (AHAC+) or (AHAD+ & AHAG+) or (AHAD+ & AHAH+) or (AHAF+) or (AHAG+) or (AHAH- & AHAD+) or (AHBB+) or (AVAH-);
+
+% AJ
+"R15":
+(AJAJ-) or (AJAJ- & AJAL+ & AJAL+) or (AJAK+) or (AJAL+) or (AJAL+ & AJAL+ & AJAL+ & AJAJ+) or (ALAJ- & AJAJ+) or (ASAJ- & AJAL+ & AJAL+);
+
+% AK
+"R16":
+(AJAK- & ALAK- & ALAK- & AJAK- & AJAK- & ALAK- & AJAK- & ALAK- & AJAK- & AJAK- & AJAK- & AJAK- & AJAK- & AJAK- & ALAK- & AKAL+ & AKAY+ & AKAY+ & AKAY+ & AKAY+ & AKAY+ & AKAY+ & AKAY+ & AKAY+);
+
+% AL
+"R17":
+(AJAL-) or (AJAL- & AJAL- & AJAL-) or (AJAL- & AJAL- & AJAL- & AJAL-) or (AJAL- & AJAL- & AJAL- & AJAL- & AJAL- & AJAL-) or (AJAL- & AJAL- & AJAL- & AJAL- & AJAL- & AJAL- & AJAL-) or (AJAL- & AJAL- & AJAL- & AJAL- & AJAL- & ALAK+) or (AJAL- & AJAL- & AJAL- & AJAL- & ALAY+) or (AKAL- & ALAJ+) or (ALAK+);
+
+% AM
+"R18":
+(AMAM- & AMAM+) or (AMAM- & AMAP+ & AMAR+ & AMAR+ & AMAM+) or (AMAM- & AMAR+ & AMAM+) or (AMAM- & AMAR+ & AMAR+ & AMAR+ & AMAR+) or (AOAM- & AMAR+ & AMAM+);
+
+% AN
+"R19":
+(ANAN- & ANAN+) or (AOAN- & ANAN- & ANAN+) or (AOAN- & ANAN- & ANAO+ & ANAO+) or (AOAN- & AOAN- & ANAN+) or (AOAN- & AOAN- & ANAN- & ANAN+) or (AOAN- & AOAN- & AOAN- & ANAN+) or (AOAN- & AOAN- & AOAN- & ANAN- & ANAN+);
+
+% AO
+"R20":
+(ADAO- & AOAN+) or (ANAO-) or (ANAO- & AOAM+) or (ANAO- & AOAQ+) or (AOAN+);
+
+% AP
+"R21":
+(AMAP- & APAP+) or (APAP-) or (APAP- & APAP+) or (APAP- & APAQ+ & APAP+) or (APAP- & APAS+ & APAP+) or (APAP- & APAT+ & APAP+) or (APAP- & APAU+) or (APAP- & APAU+ & APAP+) or (APAQ+ & APAP+) or (APAT+ & APAP+) or (ARAP-) or (ARAP- & APAP+) or (ARAP- & APAP- & APAP+) or (ARAP- & APAP- & APAQ+ & APAP+) or (ARAP- & ARAP- & APAP- & APAP+) or (ARAP- & ARAP- & APAP- & APAQ+ & APAP+) or (ARAP- & ARAP- & ARAP- & ARAP-);
+
+% AQ
+"R22":
+(AOAQ- & AQAQ+) or (APAQ-) or (APAQ- & AQAQ+) or (APAQ- & AQAS+) or (AQAQ-) or (AQAQ- & AQAQ+) or (AQAQ- & AQAR+) or (AQAR+);
+
+% AR
+"R23":
+(AMAR-) or (AMAR- & ARAP+) or (AQAR- & ARAP+) or (AQAR- & ARAP+ & ARAR+) or (ARAP+) or (ARAR-) or (ARAR- & ARAR+);
+
+% AS
+"R24":
+(APAS-) or (APAS- & ASAS+) or (AQAS-) or (ASAS-) or (ASAS- & ASAS+) or (ATAS-) or (ATAS- & ASAS+) or (AUAS-) or (AUAS- & ASAS+) or (AUAS- & ATAS-) or (AUAS- & AUAS-) or (AUAS- & AUAS- & ASAS- & ASAJ+) or (AUAS- & AUAS- & ATAS-) or (AUAS- & AUAS- & AUAS-);
+
+% AT
+"R25":
+(APAT-) or (APAT- & ATAT+) or (ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+) or (ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+) or (ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAT+) or (ATAT-) or (ATAT- & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAS+) or (ATAT- & ATAS+ & ATAS+ & ATAS+ & ATAS+ & ATAT+) or (ATAT- & ATAT+);
+
+% AU
+"R26":
+(APAU-) or (APAU- & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+) or (APAU- & AUAU+) or (AUAS+) or (AUAS+ & AUAS+) or (AUAS+ & AUAS+ & AUAS+) or (AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+) or (AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+) or (AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+ & AUAS+) or (AUAU+) or (AUAU-);
+
+% AV
+"R3":
+(AHAV- & AVAV+) or (AVAF+) or (AVAV+) or (AVAV-) or (AVAV- & AVAH+ & AVAV+) or (AVAV- & AVAV+) or (AVAV- & AVAW+) or (AVAV- & AVAW+ & AVAV+) or (AVAV- & AVAX+ & AVAV+) or (AVAV- & AVAX+ & AVAX+) or (AVAV- & AVAX+ & AVAX+ & AVAV+) or (AVAV- & AVAX+ & AVAX+ & AVAX+ & AVAV+) or (AYAV- & AVAV+) or (BAAV- & AVAV- & AVAV+);
+
+% AW
+"R4":
+(AVAW-) or (AVAW- & AWAW+) or (AWAW+) or (AWAW-) or (AWAW- & AWAW+) or (AWAW- & AWAX+) or (AWAW- & AWAX+ & AWAZ+ & AWAB+) or (AWAW- & AWAZ+) or (AWAW- & AWBA+) or (AWAW- & AWBA+ & AWAW+) or (AWAX+) or (AWBA+) or (AXAW-) or (AXAW- & AWAW+) or (AXAW- & AWAW- & AWAW+) or (AXAW- & AWAW- & AWBA+ & AWAW+) or (AZAW-) or (AZAW- & AWAW- & AWAW+) or (BAAW- & AWAW- & AWAW+);
+
+% AX
+"R5":
+(ACAX- & AXAX+) or (AVAX-) or (AVAX- & AXAW+) or (AWAX-) or (AWAX- & AVAX-) or (AXAW+) or (AXAX+) or (AXAX- & AXAW+) or (AXAX- & AXAX+);
+
+% AY
+"R6":
+(AKAY-) or (AKAY- & AYAY+) or (AKAY- & AYBA+) or (AKAY- & AYBA+ & AYAZ+) or (ALAY- & AYAY+) or (AYAY-) or (AYAY- & AYAV+) or (AYAY- & AYAY+) or (AYAY- & AYAZ+) or (AYAY- & AYAZ+ & AYAY+) or (AYAY- & AYAZ+ & AYBA+ & AYAY+) or (AYAY- & AYAZ+ & AYBA+ & AYBA+ & AYAY+) or (AYAY- & AYBA+ & AYAY+) or (AYAY- & AYBA+ & AYAZ+ & AYAY+) or (AYAY- & AYBA+ & AYAZ+ & AYBA+ & AYBA+ & AYBA+ & AYAY+) or (AYAY- & AYBA+ & AYBA+ & AYAY+) or (AYAY- & AYBA+ & AYBA+ & AYAZ+ & AYAY+) or (AYAY- & AYBA+ & AYBA+ & AYAZ+ & AYBA+ & AYBA+ & AYBA+ & AYAY+) or (AYAY- & AYBA+ & AYBA+ & AYBA+ & AYAZ+ & AYAY+) or (BAAY- & BAAY- & AYAY+);
+
+% AZ
+"R7":
+(AWAZ-) or (AWAZ- & AZAZ-) or (AYAZ-) or (AYAZ- & AZAZ+) or (AZAW+) or (AZAZ-) or (AZAZ- & AZAW+) or (AZAZ- & AZAZ+) or (BAAZ- & AZAZ+) or (BAAZ- & AZAZ- & AZAZ+);
+
+% BA
+"R8":
+(AWBA-) or (AWBA- & AYBA-) or (AWBA- & BAAZ+) or (AWBA- & BABA+) or (AYBA-) or (BAAV+) or (BAAW+) or (BAAY+) or (BAAZ+) or (BABA-);
+
+% BB
+"R9":
+(ABBB-) or (ABBB- & ABBB-) or (ABBB- & BBAB+) or (ABBB- & BBAD+) or (AGBB- & ABBB-) or (AHBB- & ABBB-) or (BBAB+) or (BBAH+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 26 word clusters, 26 Link Grammar rules.

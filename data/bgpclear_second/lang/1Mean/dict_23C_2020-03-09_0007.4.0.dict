@@ -1,0 +1,99 @@
+% Grammar Learner v.0.7 2020-03-09 07:52:45 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (GB- & BB+) or (HB-) or (HB- & BB+);
+
+% C
+"AAB":
+(BC- & CD+) or (BC- & CE+) or (BC- & CS+) or (CF+) or (HC- & CE+);
+
+% D
+"ABA":
+(CD- & DH+) or (JD-) or (JD- & DH+);
+
+% E
+"ABB":
+(CE- & EK+) or (CE- & EL+) or (CE- & EM+) or (JE- & EK+) or (JE- & EM+);
+
+% F
+"ABC":
+(CF- & WF- & FP+) or (FN+) or (RF-);
+
+% G
+"ACA":
+(SG- & GQ+ & GB+);
+
+% H
+"BAA":
+(DH- & HB+) or (DH- & HB+ & HC+) or (KH- & HB+) or (KH- & HB+ & HC+) or (KH- & HC+) or (TH- & HB+);
+
+% J
+"BAB":
+(KJ- & JD+) or (KJ- & JE+) or (KJ- & JR+) or (TJ- & JE+);
+
+% K
+"BBA":
+(EK- & KH+) or (EK- & KJ+) or (EK- & KJ+ & KJ+) or (LK- & KH+) or (LK- & KJ+) or (LK- & LK- & EK- & KJ+) or (LK- & LK- & KJ+) or (LK- & LK- & LK- & KH+);
+
+% L
+"BBB":
+(EL- & LL+) or (LK+) or (LL+) or (LL- & LK+) or (LL- & LL+) or (LL- & LM+) or (LM+) or (UL-) or (UL- & LK+) or (UL- & LL+);
+
+% M
+"BBC":
+(EM- & MP+) or (LM- & EM- & MO+) or (LM- & EM- & MP+) or (LM- & MP+) or (MO+) or (UM- & MP+);
+
+% N
+"BCA":
+(FN- & NR+) or (FN- & NS+);
+
+% O
+"BCB":
+(MO-) or (MO- & OT+) or (MO- & UO- & OT+) or (MO- & UO- & OU+) or (OU+);
+
+% P
+"BCC":
+(FP- & PY+) or (MP- & PX+) or (MP- & PY+) or (PY+ & PW+) or (RP- & PX+) or (VP-);
+
+% Q
+"CAA":
+(GQ-) or (WQ-);
+
+% R
+"CAB":
+(NR- & JR- & RF+ & RP+);
+
+% S
+"CAC":
+(NS- & CS- & SG+);
+
+% T
+"CBA":
+(OT- & TH+) or (XT- & TH+) or (XT- & TJ+);
+
+% U
+"CBB":
+(OU- & UM+) or (OU- & XU- & UL+ & UL+ & UL+) or (XU- & UL+) or (XU- & UL+ & UL+) or (XU- & UL+ & UL+ & UL+) or (XU- & UL+ & UO+) or (XU- & UO+) or (XU- & VU- & UL+ & UL+ & UL+);
+
+% V
+"CBC":
+(XV-) or (XV- & VP+ & VU+) or (XV- & VP+ & VX+) or (XV- & VW+);
+
+% W
+"CCA":
+(PW- & VW- & WQ+ & WF+);
+
+% X
+"CCB":
+(XU+) or (YX- & PX- & XT+) or (YX- & PX- & XU+) or (YX- & VX- & XV+) or (YX- & XT+) or (YX- & XU+) or (YX- & XV+) or (YX- & XV+ & XU+);
+
+% Y
+"CCC":
+(PY-) or (PY- & YY+) or (YX+) or (YY+) or (YY- & YX+) or (YY- & YY+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 23 word clusters, 23 Link Grammar rules.

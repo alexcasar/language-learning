@@ -1,0 +1,479 @@
+% Grammar Learner v.0.7 2020-04-20 21:30:06 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R117":
+(ALAB-) or (AOAB- & AKAB-) or (APAB- & ALAB- & ALAB-);
+
+% AC
+"R118":
+(ACAD+) or (ALAC-) or (ANAC-);
+
+% AD
+"R1236":
+(ADAD- & ADAD+) or (ADAD- & ADAG+ & ADAG+ & ADAG+ & ADAG+ & ADAG+ & ADAG+ & ADAG+ & ADAG+) or (ADAD- & ADBC+ & ADAQ+ & ADAD+) or (ADAQ+) or (AGAD- & ACAD- & ACAD- & AGAD- & ADAD+);
+
+% AE
+"R1244":
+(AEAE- & AEAE+) or (AEAE- & AEAW+) or (AFAE- & AEAE+) or (BJAE- & AEAE- & AEAE+);
+
+% AF
+"R1245":
+(AFAF- & AFAE+) or (AFAF- & AFAF+) or (AFAF- & AFBZ+ & AFBZ+ & AFAF+) or (BDAF- & AFAF+);
+
+% AG
+"R127":
+(ADAG-) or (AGAD+) or (AGAG+) or (AGAG-) or (AGAG- & AGAG+) or (AGAG- & AGAH+) or (AGAG- & AGAP+) or (AGAS+) or (AJAG-) or (APAG- & AGAG+) or (AQAG-) or (AQAG- & AGAD+) or (ARAG-) or (ASAG-) or (ASAG- & AGAG+) or (AXAG-) or (AXAG- & AGAS+);
+
+% AH
+"R1345":
+(AGAH- & AHBF+) or (AHAH+) or (AHAH-) or (AHAH- & AHAH+) or (AHAH- & AHAJ+) or (AHAH- & AHAS+) or (AHAH- & AHBF+) or (AHAT+) or (AHAU+) or (ASAH- & AHAH+) or (ASAH- & AHAT+) or (AUAH- & AHAH+) or (BGAH-) or (BGAH- & AHAT+) or (BHAH- & AHAH+);
+
+% AJ
+"R136":
+(AHAJ- & AJAJ+) or (AHAJ- & AJAJ- & AJBF+) or (AHAJ- & AJBF+) or (AHAJ- & AUAJ- & AUAJ- & AUAJ- & AUAJ- & AUAJ- & AUAJ- & BKAJ- & AJAJ+) or (AJAJ- & AJAG+ & AJAU+) or (AJAJ- & AJAJ+) or (BGAJ-);
+
+% AK
+"R1411":
+(BBAK- & AKAB+ & AKBM+ & AKBK+ & AKBJ+ & AKBM+);
+
+% AL
+"R189":
+(ALAB+) or (BAAL- & ALAB+ & ALAB+ & ALAC+ & ALAC+ & ALAC+ & ALAC+ & ALAP+);
+
+% AM
+"R211":
+(ASAM- & ASAM- & ASAM- & ASAM- & ASAM- & ARAM- & ASAM- & ASAM- & ARAM- & ASAM- & ASAM- & AMAN+);
+
+% AN
+"R2139":
+(AMAN- & ANAC+ & ANAC+ & ANAC+ & ANAR+ & ANAR+ & ANAR+ & ANAR+ & ANBJ+ & ANBJ+ & ANAR+);
+
+% AO
+"R2227":
+(AOAB+) or (AZAO- & BMAO- & BMAO- & BMAO- & BMAO- & BMAO- & AOAZ+) or (BBAO-) or (BBAO- & AOAZ+ & AOAZ+ & AOAZ+) or (BOAO- & BOAO- & BOAO- & BMAO- & BMAO- & BMAO- & BMAO- & BBAO-);
+
+% AP
+"R2236":
+(AGAP- & ALAP-) or (APAG+ & APAB+) or (BAAP-) or (BAAP- & APAQ+ & APAQ+ & APAQ+ & APAQ+ & APAQ+) or (BAAP- & BAAP-) or (BAAP- & BAAP- & BAAP-) or (BAAP- & BAAP- & BAAP- & BAAP-) or (BAAP- & BAAP- & BAAP- & BAAP- & APBJ+);
+
+% AQ
+"R2335":
+(ADAQ- & APAQ-) or (ADAQ- & AQAG+ & AQAG+) or (APAQ-) or (APAQ- & AQAG+ & AQAG+ & AQAG+ & AQAG+ & AQAG+ & AQAG+ & AQAG+ & AQAG+ & AQAG+) or (APAQ- & AQBC+ & AQBC+ & AQBC+) or (AVAQ- & APAQ-);
+
+% AR
+"R2345":
+(ANAR-) or (ANAR- & ARAR+) or (ARAG+ & ARAX+) or (ARAM+) or (ARAR+) or (ARAR- & ARAM+) or (ARAR- & ARAR+) or (ARAX+) or (ASAR-) or (ASAR- & ANAR-) or (ASAR- & ARAX+) or (BCAR- & ARAR- & ARAX+) or (BZAR- & BJAR- & ARAX+);
+
+% AS
+"R236":
+(AGAS- & AGAS- & AGAS- & AGAS- & AGAS- & ASAS- & ASAS+) or (AGAS- & AGAS- & ASAS+) or (AGAS- & ASAR+ & ASAS+) or (AHAS- & ASAS- & ASAG+ & ASAH+) or (AHAS- & BCAS- & ASAS- & ASAH+ & ASAS+) or (ASAG+ & ASAM+) or (ASAM+) or (ASAS+) or (ASAS- & ASAH+ & ASBC+ & ASBC+ & ASAS+) or (ASAS- & ASAM+) or (ASAS- & ASAR+) or (ASAS- & ASAS+) or (ASBC+ & ASAM+) or (BHAS- & ASAS- & ASAS+);
+
+% AT
+"R2454":
+(AHAT- & AHAT-) or (AHAT- & AHAT- & ATBE+) or (ATAT+) or (ATAT- & ATBF+) or (ATBE+) or (ATBK+) or (BEAT-);
+
+% AU
+"R2463":
+(AHAU- & AUAU- & AUAU+) or (AHAU- & BVAU-) or (AJAU- & BDAU-) or (AUAH+ & AUBD+) or (AUAJ+) or (AUAU+) or (AUAU-) or (AUAU- & AUAU+) or (AUAU- & AUBF+) or (AUBD+) or (BDAU-) or (BFAU- & AUAU+) or (BFAU- & BVAU-) or (BKAU-) or (BVAU-) or (BVAU- & AUBD+);
+
+% AV
+"R2511":
+(AVAQ+) or (AVBF+ & AVBS+ & AVBV+) or (AVBV+);
+
+% AW
+"R254":
+(AEAW- & AWAW+) or (AWAW-) or (AWAW- & AWAW+);
+
+% AX
+"R3159":
+(ARAX- & ARAX- & ARAX- & ARAX- & ARAX- & ARAX- & ARAX- & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+ & AXAG+);
+
+% AY
+"R3227":
+(BTAY-) or (BTAY- & AYBL+ & AYBL+ & AYBL+ & AYBL+);
+
+% AZ
+"R3326":
+(AOAZ-) or (AZAO+) or (AZAZ+) or (AZAZ- & AZBM+) or (BMAZ-);
+
+% BA
+"R3336":
+(BAAP+) or (BAAP+ & BAAP+ & BAAL+) or (BAAP+ & BAAP+ & BAAP+ & BAAP+) or (BABP+ & BAAP+) or (BHBA- & BAAP+);
+
+% BB
+"R3389":
+(BXBB- & BXBB- & BUBB- & BXBB- & BXBB- & BXBB- & BBAO+ & BBAO+ & BBAO+ & BBAO+ & BBAK+);
+
+% BC
+"R3454":
+(ADBC-) or (AQBC-) or (ASBC-) or (BJBC- & AQBC-) or (BPBC-) or (BPBC- & BCAR+) or (BPBC- & BPBC- & BPBC- & BCAS+);
+
+% BD
+"R3472":
+(AUBD- & AUBD- & AUBD- & AUBD- & BDBD+) or (AUBD- & AUBD- & AUBD- & AUBD- & BDBD- & BDBD+) or (AUBD- & AUBD- & BDBD- & BDBD+) or (AUBD- & BDBD- & BDBD+) or (BDBD-) or (BDBD- & BDAU+ & BDAU+ & BDAU+ & BDAF+) or (BDBD- & BDAU+ & BDAU+ & BDBS+ & BDBD+) or (BDBD- & BDBD+) or (BDBD- & BDBS+ & BDBD+) or (BDBD- & BDBS+ & BDBS+ & BDBD+) or (BVBD- & BDBD+) or (BZBD- & BZBD- & AUBD- & AUBD- & BDBD- & BDBD+);
+
+% BE
+"R3562":
+(ATBE- & ATBE- & ATBE- & BEBE+) or (BEAT+ & BEAT+ & BEBG+) or (BEBE- & BEAT+) or (BEBE- & BEBE+) or (BEBE- & BEBG+) or (BEBG+) or (BGBE- & BEBE+) or (BYBE- & BEBG+) or (CBBE- & BEBG+);
+
+% BF
+"R3572":
+(AHBF- & AJBF- & BFBF- & BFBF+) or (ATBF- & BFBF- & BFBF+) or (AUBF- & AHBF- & AJBF- & BFBF+) or (AVBF-) or (BFAU+) or (BFAU+ & BFBF+) or (BFBF+) or (BFBF-) or (BFBF- & BFBF+) or (BFBF- & BFBK+) or (BFBF- & BFBR+) or (BFBF- & BFBS+) or (BFBK+) or (BFBV+);
+
+% BG
+"R3621":
+(BEBG- & BRBG- & BRBG- & BEBG- & BRBG- & BEBG- & BRBG- & BEBG- & BEBG- & BEBG- & BGBE+ & BGAH+ & BGAH+ & BGAJ+ & BGAH+ & BGAJ+ & BGAJ+ & BGAH+ & BGAH+ & BGAH+ & BGAH+ & BGAJ+ & BGAH+);
+
+% BH
+"R4169":
+(BHAH+ & BHAS+) or (BHBA+) or (BHBL+);
+
+% BJ
+"R4179":
+(AKBJ-) or (ANBJ-) or (APBJ-) or (BJAE+) or (BJAR+) or (BJBC+) or (BQBJ-);
+
+% BK
+"R4189":
+(AKBK-) or (ATBK- & BFBK- & BKAJ+) or (BFBK- & BKBV+) or (BKAU+ & BKBV+);
+
+% BL
+"R4327":
+(AYBL-) or (BHBL- & AYBL- & BLBQ+ & BLBQ+ & BLBQ+ & BLBQ+ & BLBX+) or (BMBL- & AYBL-);
+
+% BM
+"R4436":
+(AKBM- & BMAO+) or (AZBM- & AKBM-) or (BMAO+) or (BMAZ+) or (BMAZ+ & BMAO+) or (BMBM+) or (BMBM- & BMBL+) or (BXBM-);
+
+% BN
+"R4527":
+(BNCA+);
+
+% BO
+"R4554":
+(BOAO+) or (BOBT+) or (BPBO-) or (BUBO-) or (BWBO-) or (CBBO- & BWBO- & BOBT+) or (CKBO- & BWBO-);
+
+% BP
+"R4562":
+(BABP-) or (BPBC+) or (BPBC+ & BPBC+) or (BPBO+);
+
+% BQ
+"R4563":
+(BLBQ-) or (BQBJ+ & BQBU+) or (BQBX+);
+
+% BR
+"R4571":
+(BFBR-) or (BRBG+) or (BRBR-) or (BRBR- & BRBR+) or (BYBR- & BRBR+);
+
+% BS
+"R4581":
+(AVBS-) or (BDBS-) or (BFBS- & BYBS- & BYBS-) or (BSBV+) or (BYBS-) or (BYBS- & BDBS-) or (BYBS- & BYBS- & BYBS-);
+
+% BT
+"R4589":
+(BOBT- & BOBT- & BOBT- & BOBT- & BWBT- & BWBT- & BWBT- & BOBT- & BOBT- & BWBT- & BWBT- & BWBT- & BWBT- & BOBT- & BTAY+ & BTAY+);
+
+% BU
+"R4621":
+(CBBU- & BQBU- & BUBO+ & BUBB+);
+
+% BV
+"R4630":
+(BSBV- & BFBV- & BFBV- & BFBV- & BKBV- & BKBV- & AVBV- & BFBV- & BFBV- & AVBV- & BVAU+ & BVBD+ & BVAU+ & BVAU+ & BVAU+ & BVAU+ & BVAU+ & BVAU+ & BVAU+ & BVAU+ & BVAU+);
+
+% BW
+"R4663":
+(BWBT+) or (BWBW- & BWBO+) or (BWBW- & BWBW+) or (CABW-) or (CABW- & BWBO+ & BWBO+ & BWBO+ & BWBO+ & BWBW+);
+
+% BX
+"R4671":
+(BLBX- & BXBB+) or (BQBX- & BQBX- & BXBM+ & BXBM+ & BXBB+) or (BXBB+);
+
+% BY
+"R4681":
+(BYBE+) or (BYBR+ & BYBS+) or (BYBS+) or (BYBS+ & BYBS+) or (BYBS+ & BYBS+ & BYBS+ & BYBS+);
+
+% BZ
+"R511":
+(AFBZ-) or (BZAR+) or (BZBD+);
+
+% CA
+"R5179":
+(CHCA- & CHCA- & CCCA- & CCCA- & BNCA- & CCCA- & CCCA- & CCCA- & CABW+ & CABW+ & CABW+ & CABW+ & CABW+ & CABW+ & CACK+ & CACK+ & CACE+ & CABW+ & CABW+ & CABW+);
+
+% CB
+"R5189":
+(CBBE+) or (CBBO+) or (CBBU+) or (CXCB-);
+
+% CC
+"R5527":
+(CCCA+) or (CCCG+ & CCCA+) or (CKCC- & CLCC- & CCCA+);
+
+% CD
+"R5611":
+(CGCD- & CGCD- & CHCD- & CGCD- & CHCD- & CHCD- & CHCD- & CHCD- & CHCD- & CHCD- & CHCD- & CDCF+ & CDCF+ & CDCF+ & CDCJ+ & CDCJ+ & CDCJ+ & CDCJ+ & CDCJ+ & CDCE+);
+
+% CE
+"R5621":
+(CACE-) or (CDCE- & CECL+);
+
+% CF
+"R5627":
+(CDCF-) or (CFCF-) or (CGCF- & CFCF+) or (CPCF-);
+
+% CG
+"R5636":
+(CCCG-) or (CGCD+) or (CGCF+ & CGCD+) or (COCG-) or (CPCG-) or (CXCG-);
+
+% CH
+"R5654":
+(CHCA+) or (CHCD+) or (CHCH-) or (CJCH- & CHCD+) or (CJCH- & CHCH+) or (CKCH-) or (CKCH- & CKCH- & CKCH-);
+
+% CJ
+"R5663":
+(CDCJ-) or (CDCJ- & CJCK+ & CJCK+ & CJCK+) or (CJCH+ & CJCL+) or (CJCJ+) or (CJCJ- & CJCH+) or (CJCJ- & CJCH+ & CJCJ+) or (CJCJ- & CJCK+ & CJCK+ & CJCK+ & CJCK+ & CJCK+ & CJCJ+) or (CJCL+) or (CLCJ-) or (CXCJ-);
+
+% CK
+"R5672":
+(CACK-) or (CJCK-) or (CKBO+) or (CKCH+) or (CKCH+ & CKCH+ & CKCC+) or (CKCL+);
+
+% CL
+"R5681":
+(CKCL- & CJCL- & CJCL- & CJCL- & CECL- & CLCJ+ & CLCJ+ & CLCJ+ & CLCJ+ & CLCJ+ & CLCJ+ & CLCJ+ & CLCC+);
+
+% CM
+"R5899":
+(CNCM- & CNCM- & CNCM- & CNCM- & CNCM- & CNCM- & CNCM- & CNCM- & CNCM- & CNCM-);
+
+% CN
+"R5991":
+(CNCM+) or (CNCM+ & CNCN+) or (CNCN- & CNCN+) or (CNCN- & CNET+);
+
+% CO
+"R6159":
+(CPCO- & COCG+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+ & COCX+);
+
+% CP
+"R6189":
+(CYCP- & CYCP- & CYCP- & CYCP- & CYCP- & CYCP- & CYCP- & DACP- & CZCP- & CYCP- & CRCP- & CZCP- & CPCG+ & CPCF+ & CPCF+ & CPCF+ & CPCF+ & CPCF+ & CPCF+ & CPCO+);
+
+% CQ
+"R6219":
+(CUCQ- & CUCQ- & CUCQ- & CQCZ+);
+
+% CR
+"R6711":
+(CRCP+) or (CRDA+) or (CWCR-);
+
+% CS
+"R6717":
+(CSDW+) or (CTCS- & CTCS-) or (CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CTCS- & CSDW+);
+
+% CT
+"R6718":
+(CTCS+) or (DHCT- & DMCT- & CTCS+ & CTCS+);
+
+% CU
+"R6726":
+(CUCQ+) or (CUCV+ & CUCV+ & CUCV+ & CUCV+ & CUCV+ & CUCV+ & CUCV+ & CUCQ+) or (CWCU- & CWCU- & CWCU- & CWCU- & CWCU- & CWCU- & CYCU- & CWCU- & CUCQ+);
+
+% CV
+"R6727":
+(CUCV-) or (CVCW+) or (DCCV- & CVCW+);
+
+% CW
+"R6734":
+(CVCW- & CVCW- & CVCW- & CVCW- & CVCW- & CVCW- & CWCU+) or (CWCR+ & CWCU+) or (CWCU+) or (CWCW-) or (CWDA+) or (DJCW- & CWCW+);
+
+% CX
+"R6744":
+(COCX-) or (COCX- & CXCG+) or (CYCX- & COCX- & CXCB+ & CXCB+ & CXCJ+ & CXCG+ & CXCG+);
+
+% CY
+"R6753":
+(CYCP+) or (CYCU+) or (CYCX+) or (CYCZ+) or (DACY- & CYCZ+);
+
+% CZ
+"R6762":
+(CYCZ- & CYCZ- & CYCZ- & CYCZ- & CYCZ- & CYCZ- & CYCZ- & CYCZ- & CQCZ- & CZCP+) or (CZDA+ & CZCP+);
+
+% DA
+"R6771":
+(CWDA- & CRDA- & DACY+) or (CZDA-) or (DACP+);
+
+% DB
+"R6990":
+(DFDB-);
+
+% DC
+"R6991":
+(DCDC- & DCDE+ & DCCV+) or (DCDD+) or (DDDC- & DFDC-) or (DFDC-) or (DFDC- & DCDC+);
+
+% DD
+"R6992":
+(DCDD- & DJDD-) or (DDDC+) or (DJDD-) or (DJDD- & DDDF+);
+
+% DE
+"R6993":
+(DCDE-) or (DJDE-);
+
+% DF
+"R6999":
+(DDDF- & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDC+ & DFDB+ & DFDC+ & DFDC+ & DFDC+ & DFDC+);
+
+% DG
+"R7711":
+(DVDG-);
+
+% DH
+"R7718":
+(DHCT+) or (DHDH- & DHDH+) or (DHDH- & DHDM+) or (DHDS+) or (DRDH-) or (DRDH- & DHDS+ & DHDS+) or (DRDH- & DHDS+ & DHDS+ & DHDS+ & DHDS+ & DHDS+ & DHDS+ & DHDH+) or (DRDH- & DRDH-);
+
+% DJ
+"R7726":
+(DVDJ-) or (DVDJ- & DJCW+ & DJDD+ & DJDE+ & DJDE+ & DJDE+ & DJDE+ & DJDD+ & DJDD+ & DJDD+);
+
+% DK
+"R7769":
+(DSDK-) or (DVDK-);
+
+% DL
+"R7801":
+(DTDL- & DNDL- & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDT+ & DLDM+ & DLDT+);
+
+% DM
+"R7802":
+(DHDM- & DMCT+) or (DLDM-);
+
+% DN
+"R7803":
+(DPDN- & DPDN- & DPDN- & DQDN- & DNDT+ & DNDT+ & DNDU+ & DNDL+);
+
+% DO
+"R7807":
+(EEDO- & DODP+ & DODP+ & DODP+ & DODP+ & DODP+ & DOEC+ & DOEC+ & DOED+ & DOED+);
+
+% DP
+"R7808":
+(DODP-) or (DPDN+) or (DPDP+) or (DPDP- & DPDP+) or (DPDP- & DPDT+) or (DPDQ+) or (DPEC+) or (ECDP-) or (EDDP-);
+
+% DQ
+"R7809":
+(DPDQ- & ECDQ- & DQDN+);
+
+% DR
+"R7811":
+(DRDH+) or (DSDR- & DSDR- & DSDR- & DSDR- & DSDR- & DSDR- & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+ & DRDH+);
+
+% DS
+"R7817":
+(DHDS-) or (DHDS- & DHDS- & DHDS- & DSDR+) or (DHDS- & DSDK+) or (DSDR+) or (DTDS-);
+
+% DT
+"R7818":
+(DLDT-) or (DLDT- & DTDT+) or (DNDT-) or (DPDT- & DUDT-) or (DTDL+) or (DTDS+) or (DTDT-) or (DUDT-);
+
+% DU
+"R7819":
+(DNDU-) or (DUDT+ & DUDT+ & DUDT+ & DUDT+ & DUDT+ & DUDT+ & DUDT+ & DUDT+);
+
+% DV
+"R7991":
+(DWDV-) or (DWDV- & DVDJ+ & DVDK+ & DVDK+ & DVDG+ & DVDJ+ & DVDJ+ & DVDJ+);
+
+% DW
+"R7992":
+(CSDW- & CSDW- & CSDW- & CSDW- & CSDW- & CSDW- & CSDW- & CSDW- & DWDV+ & DWDV+ & DWDV+ & DWDV+ & DWDX+ & DWDV+ & DWDV+ & DWDV+);
+
+% DX
+"R7999":
+(DWDX-);
+
+% DY
+"R8080":
+(DYDY+) or (DYDY- & DYDY+) or (DYDY- & DYEA+) or (DYDY- & DYEB+ & DYEB+ & DYDY+) or (DYDY- & DYEL+) or (EKDY- & DYDY- & DYDY+) or (ELDY-) or (ELDY- & DYDY+) or (ELDY- & DYEA+) or (ELDY- & ELDY-);
+
+% DZ
+"R8089":
+(DZDZ-) or (DZDZ- & DZDZ+) or (DZDZ- & DZEB+ & DZDZ+) or (EADZ- & DZDZ+);
+
+% EA
+"R8090":
+(DYEA- & EAEA+) or (EAEA-) or (EAEA- & EADZ+) or (EAEA- & EAEA+) or (EKEA-) or (EKEA- & EAEA+);
+
+% EB
+"R8099":
+(DYEB-) or (DZEB-);
+
+% EC
+"R8808":
+(DOEC-) or (DPEC- & DPEC- & ECEE+) or (EDEC-) or (EDEC- & ECDQ+) or (EEEC-) or (EEEC- & ECDP+ & ECDP+);
+
+% ED
+"R8809":
+(DOED-) or (DOED- & EDEC+ & EDEC+ & EDEC+ & EDDP+ & EDDP+ & EDDP+ & EDDP+ & EDEC+ & EDEC+);
+
+% EE
+"R8819":
+(ECEE- & EGEE- & EFEE- & EFEE- & EFEE- & EFEE- & EFEE- & EFEE- & EFEE- & EFEE- & EEEC+ & EEEC+ & EEDO+);
+
+% EF
+"R8908":
+(EFEE+) or (EGEF- & EGEF- & EFEE+) or (EGEF- & EGEF- & EGEF- & EGEF- & EGEF- & EGEF- & EFEE+);
+
+% EG
+"R8909":
+(EGEE+) or (EGEF+);
+
+% EH
+"R9080":
+(EHEM+) or (EJEH-);
+
+% EJ
+"R9089":
+(EJEH+ & EJEM+) or (EJEM+) or (EOEJ- & EJEH+ & EJEH+ & EJEH+ & EJEH+ & EJEH+ & EJEM+ & EJEH+ & EJEH+ & EJEM+);
+
+% EK
+"R9090":
+(EKEA+ & EKDY+) or (EKEA+ & EKEL+) or (EKEL+) or (EMEK- & EMEK- & EMEK- & EMEK- & EMEK- & EMEK- & EMEK- & EMEK- & EKEL+);
+
+% EL
+"R9099":
+(DYEL- & EKEL- & EKEL- & EKEL- & EKEL- & EKEL- & ELDY+ & ELDY+ & ELDY+ & ELDY+ & ELDY+ & ELDY+ & ELDY+ & ELDY+ & ELDY+) or (ELDY+);
+
+% EM
+"R9180":
+(EHEM- & EJEM- & EJEM-) or (EJEM-) or (EJEM- & EMEK+) or (EMEK+);
+
+% EN
+"R9800":
+(ENEN-) or (ENEN- & ENEN+) or (ENEO+) or (ENEP+) or (EPEN- & ENEN+) or (EQEN- & ENEN+);
+
+% EO
+"R9809":
+(ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & ENEO- & EPEO- & EPEO- & ENEO- & ENEO- & ENEO- & EOEP+ & EOEP+ & EOEJ+);
+
+% EP
+"R9900":
+(ENEP- & EOEP-) or (EOEP- & EPEN+) or (EPEO+) or (EQEP-);
+
+% EQ
+"R9901":
+(EQEQ- & EQEN+) or (ESEQ-) or (ESEQ- & EQEP+ & EQEQ+) or (ESEQ- & ESEQ- & ESEQ- & ESEQ- & ESEQ-);
+
+% ER
+"R9909":
+(ERES+) or (ETER- & ETER- & ETER- & ETER- & ETER- & ERES+);
+
+% ES
+"R9990":
+(ESEQ+) or (ETES- & ETES- & ETES- & ETES- & ERES- & ERES- & ERES- & ERES- & ERES- & ERES- & ERES- & ERES- & ERES- & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+ & ESEQ+);
+
+% ET
+"R9999":
+(CNET- & ETER+) or (ETER+) or (ETES+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 118 word clusters, 118 Link Grammar rules.

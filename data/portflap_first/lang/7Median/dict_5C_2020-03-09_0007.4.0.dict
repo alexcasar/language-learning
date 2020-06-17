@@ -1,0 +1,27 @@
+% Grammar Learner v.0.7 2020-03-09 07:53:33 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB- & BC+);
+
+% C
+"AAB":
+(BC- & CD+);
+
+% D
+"ABC":
+(CD- & DE+);
+
+% E
+"BCC":
+(DE- & EF+);
+
+% F
+"CCC":
+(EF- & FF+) or (FF-) or (FF- & FF+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 5 word clusters, 5 Link Grammar rules.

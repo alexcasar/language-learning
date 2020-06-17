@@ -1,0 +1,59 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:08 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (EB-) or (EB- & BB+);
+
+% C
+"AAC":
+(BC- & BC- & BC- & CD+);
+
+% D
+"ACC":
+(CD- & DO+ & DO+ & DO+);
+
+% E
+"BAA":
+(FE- & EB+ & EB+ & EB+);
+
+% F
+"BBA":
+(GF- & GF- & GF- & FE+);
+
+% G
+"BBB":
+(GF+) or (GH+) or (LG-) or (LG- & GF+) or (LG- & GH+);
+
+% H
+"BBC":
+(GH- & GH- & HJ+) or (GH- & GH- & HK+) or (GH- & HK+) or (HJ+) or (LH- & HK+);
+
+% J
+"BCB":
+(HJ- & JL+) or (HJ- & LJ- & JL+) or (HJ- & NJ- & JL+);
+
+% K
+"BCC":
+(HK- & KN+) or (HK- & KO+) or (HK- & KO+ & KO+ & KO+) or (MK-);
+
+% L
+"CBB":
+(JL- & LG+) or (JL- & LG+ & LG+) or (JL- & LH+) or (ML- & LJ+) or (NL-) or (NL- & LG+) or (NL- & LG+ & LG+) or (NL- & LG+ & LG+ & LG+) or (NL- & LH+);
+
+% M
+"CBC":
+(NM- & MK+ & MN+ & ML+);
+
+% N
+"CCB":
+(KN- & NL+) or (MN-) or (ON- & NL+) or (ON- & NL+ & NJ+) or (ON- & ON- & NL+) or (ON- & ON- & ON- & NL+) or (ON- & ON- & ON- & NM+);
+
+% O
+"CCC":
+(DO-) or (DO- & ON+) or (KO-) or (KO- & ON+) or (KO- & OO+) or (ON+) or (OO- & ON+) or (OO- & OO+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 13 word clusters, 13 Link Grammar rules.

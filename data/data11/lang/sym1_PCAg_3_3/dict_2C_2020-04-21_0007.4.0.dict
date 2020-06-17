@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-04-21 03:25:46 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0" "R1" "R10" "R12" "R13" "R15" "R16" "R17" "R2" "R20" "R21" "R22" "R23" "R24" "R25" "R3" "R4" "R5" "R7":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+) or (BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BC+) or (BB- & BC+ & BB+) or (CB- & BB+);
+
+% C
+"R18" "R19":
+(BC-) or (BC- & CC+) or (CC+) or (CC-) or (CC- & CB+) or (CC- & CC+) or (CC- & CC+ & CC+) or (CC- & CC- & CC+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

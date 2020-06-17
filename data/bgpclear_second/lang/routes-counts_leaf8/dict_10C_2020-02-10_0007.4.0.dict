@@ -1,0 +1,47 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:05 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (EB-) or (EB- & BB+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CD+);
+
+% D
+"ABC":
+(CD- & DH+);
+
+% E
+"BAA":
+(FE- & EB+ & EB+ & EB+);
+
+% F
+"BBA":
+(GF- & FE+);
+
+% G
+"BBB":
+(JG-) or (JG- & GF+);
+
+% H
+"BCC":
+(DH- & HL+ & HL+ & HL+);
+
+% J
+"CBB":
+(KJ- & JG+ & JG+ & JG+);
+
+% K
+"CCB":
+(LK- & KJ+);
+
+% L
+"CCC":
+(HL-) or (HL- & LK+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 10 word clusters, 10 Link Grammar rules.

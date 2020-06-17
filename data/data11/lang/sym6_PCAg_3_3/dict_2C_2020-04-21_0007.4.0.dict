@@ -1,0 +1,15 @@
+% Grammar Learner v.0.7 2020-04-21 03:25:47 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R4" "R5" "R6" "R7" "R8":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BB+ & BB+) or (BB- & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BB+ & BB+ & BB+ & BB+ & BB+) or (BB- & BB+ & BB+ & BC+) or (BB- & BB-) or (BB- & BB- & BB+) or (BB- & BB- & BB+ & BB+) or (BB- & BC+) or (BB- & CB-) or (BC+) or (CB-) or (CB- & BB+) or (CB- & BB+ & BB+);
+
+% C
+"R0" "R1" "R10" "R11" "R12" "R13" "R14" "R15" "R16" "R17" "R18" "R19" "R20" "R21" "R22" "R23" "R24" "R25" "R26" "R3" "R9":
+(BC- & CC+) or (BC- & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (BC- & CC- & CC+) or (CC+) or (CC+ & CC+) or (CC+ & CC+ & CC+) or (CC+ & CC+ & CC+ & CC+) or (CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (CC-) or (CC- & CB+) or (CC- & CB+ & CB+) or (CC- & CB+ & CB+ & CB+ & CC+) or (CC- & CB+ & CB+ & CC+) or (CC- & CB+ & CC+) or (CC- & CC+) or (CC- & CC+ & CB+) or (CC- & CC+ & CC+) or (CC- & CC+ & CC+ & CC+) or (CC- & CC+ & CC+ & CC+ & CC+) or (CC- & CC+ & CC+ & CC+ & CC+ & CC+) or (CC- & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+ & CC+) or (CC- & CC-) or (CC- & CC- & CC+) or (CC- & CC- & CC+ & CC+) or (CC- & CC- & CC-) or (CC- & CC- & CC- & CC+) or (CC- & CC- & CC- & CC+ & CC+) or (CC- & CC- & CC- & CC-) or (CC- & CC- & CC- & CC- & CB+) or (CC- & CC- & CC- & CC- & CC+) or (CC- & CC- & CC- & CC- & CC- & CC+) or (CC- & CC- & CC- & CC- & CC- & CC+ & CC+) or (CC- & CC- & CC- & CC- & CC- & CC+ & CC+ & CC+ & CC+ & CC+) or (CC- & CC- & CC- & CC- & CC- & CC-) or (CC- & CC- & CC- & CC- & CC- & CC- & CC+ & CC+ & CC+ & CC+) or (CC- & CC- & CC- & CC- & CC- & CC- & CC-) or (CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC- & CC+ & CB+ & CB+ & CB+ & CB+ & CB+ & CB+ & CB+ & CB+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 2 word clusters, 2 Link Grammar rules.

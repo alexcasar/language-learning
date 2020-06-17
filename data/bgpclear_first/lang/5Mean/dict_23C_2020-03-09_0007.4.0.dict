@@ -1,0 +1,99 @@
+% Grammar Learner v.0.7 2020-03-09 07:52:37 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BB- & BD+) or (JB-) or (JB- & BB+) or (SB- & BB+);
+
+% C
+"AAB":
+(BC- & CE+) or (BC- & CF+) or (BC- & SC- & CF+) or (CG+) or (JC- & CF+) or (SC- & CF+) or (SC- & CL+) or (TC- & CE+) or (TC- & CF+);
+
+% D
+"AAC":
+(BD- & DH+) or (DH+);
+
+% E
+"ABA":
+(CE- & EJ+) or (KE-) or (KE- & EJ+) or (KE- & KE- & EJ+);
+
+% F
+"ABB":
+(CF- & FN+) or (CF- & FN+ & FN+ & FN+) or (CF- & FN+ & FN+ & FO+) or (CF- & FN+ & FO+) or (CF- & FO+) or (FL+) or (KF-) or (KF- & FN+ & FN+ & FN+) or (KF- & FN+ & FO+) or (KF- & FO+) or (KF- & TF- & FN+ & FN+ & FN+);
+
+% G
+"ABC":
+(CG- & JG- & GQ+ & GQ+) or (CG- & JG- & GQ+ & GU+ & GM+) or (KG- & GQ+ & GU+ & GM+);
+
+% H
+"ACB":
+(DH- & HU+) or (DH- & MH- & HU+) or (LH- & HU+);
+
+% J
+"BAA":
+(EJ- & EJ- & JB+) or (EJ- & JB+) or (EJ- & JB+ & JC+) or (EJ- & JC+) or (MJ-) or (MJ- & JB+) or (MJ- & JB+ & JC+) or (MJ- & JB+ & JG+) or (MJ- & KJ- & JC+) or (TJ-) or (TJ- & JB+);
+
+% K
+"BAB":
+(KE+) or (KF+) or (MK- & KE+) or (MK- & KE+ & KE+) or (MK- & KF+) or (MK- & KF+ & KJ+) or (MK- & KG+);
+
+% L
+"BAC":
+(ML- & FL- & CL- & LH+ & LM+);
+
+% M
+"BBA":
+(GM- & MK+) or (GM- & MK+ & MK+) or (LM- & MJ+ & MH+) or (MJ+) or (ML+) or (NM- & MJ+) or (NM- & MK+) or (NM- & NM- & MJ+) or (NM- & NM- & MK+) or (NM- & NM- & NM- & MJ+) or (NM- & NM- & NM- & MK+) or (UM- & MJ+) or (UM- & MK+);
+
+% N
+"BBB":
+(FN-) or (FN- & NM+) or (FN- & NO+) or (FN- & NP+) or (NM+) or (NN- & NM+) or (NN- & NN+) or (NO+) or (NP+) or (UN-) or (UN- & NM+) or (UN- & NN+) or (UN- & NO+);
+
+% O
+"BBC":
+(FO- & OQ+) or (FO- & OR+) or (NO- & NO- & NO- & OR+) or (NO- & NO- & NO- & OR+ & OS+) or (NO- & NO- & OQ+) or (NO- & NO- & OR+) or (NO- & OQ+) or (NO- & OR+) or (OP+) or (UO- & OQ+) or (UO- & OR+ & OT+);
+
+% P
+"BCA":
+(OP- & NP- & NP- & PS+);
+
+% Q
+"BCB":
+(GQ-) or (GQ- & QV+) or (OQ- & QT+) or (OQ- & QU+) or (QV+) or (VQ- & QU+);
+
+% R
+"BCC":
+(OR-) or (OR- & RT+) or (OR- & RX+) or (OR- & RY+) or (VR-) or (VR- & OR- & RX+) or (VR- & OR- & RY+) or (VR- & RY+);
+
+% S
+"CAA":
+(PS- & SC+) or (WS- & OS- & SC+) or (WS- & SB+);
+
+% T
+"CBA":
+(QT- & TJ+) or (QT- & TJ+ & TC+) or (XT- & OT- & TJ+ & TC+) or (XT- & RT- & TJ+ & TC+) or (XT- & TF+);
+
+% U
+"CBB":
+(GU-) or (HU-) or (HU- & UN+) or (QU- & UM+) or (QU- & UN+) or (QU- & UN+ & UM+) or (QU- & UN+ & UN+ & UN+) or (QU- & UO+) or (QU- & XU- & UN+ & UN+ & UN+) or (XU- & UM+) or (XU- & UN+) or (XU- & UN+ & UM+) or (XU- & UN+ & UN+ & UN+) or (XU- & UO+);
+
+% V
+"CBC":
+(QV-) or (QV- & VQ+) or (QV- & VR+) or (VQ+) or (XV- & VR+) or (XV- & VR+ & VV+) or (XV- & VV- & VR+ & VX+);
+
+% W
+"CCA":
+(WS+) or (YW- & WS+);
+
+% X
+"CCB":
+(RX- & XU+) or (XT+) or (XV+) or (YX- & RX- & XU+) or (YX- & VX- & XU+) or (YX- & XT+) or (YX- & XU+) or (YX- & XV+);
+
+% Y
+"CCC":
+(RY- & YY+) or (YX+) or (YY+) or (YY-) or (YY- & YW+) or (YY- & YX+) or (YY- & YY+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 23 word clusters, 23 Link Grammar rules.

@@ -1,0 +1,26 @@
+Number of sentences    	1
+Maximum sentence length	662
+Average sentence length	662
+Number of unique words in sentences	25
+Number of unique parsed words      	25
+Number of unique non-parsed [words]	0
+Number of unique linked words      	25
+Number of unique non-linked words  	0
+Total  words count in sentences    	662
+Parsed words count in sentences    	662
+Non-parsed [words] in sentences    	0
+Non-linked words (excl.non-parsed) 	0
+Average word count 	26
+Unique links number	77
+Total  links count 	660
+Average link count 	8.6
+Average links per linked word	26
+Unique disjuncts number	178
+Total  disjuncts count 	662
+Average disjunct count 	3.7
+Average disjunct length	2.0
+Maximum disjunct length	5
+Unique seeds number	182
+Average seed count 	3.6
+Number of unique words after cleanup	25
+Number of unique features after cleanup	178

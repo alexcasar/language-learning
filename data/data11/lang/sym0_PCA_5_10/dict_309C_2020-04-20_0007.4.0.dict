@@ -1,0 +1,1243 @@
+% Grammar Learner v.0.7 2020-04-20 21:29:54 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% AB
+"R16122":
+(GPAB- & ABAC+ & ABAC+);
+
+% AC
+"R16123":
+(ABAC-) or (ABAC- & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+ & ACAD+);
+
+% AD
+"R16124":
+(ACAD-) or (ACAD- & ADAG+ & ADAH+ & ADAH+);
+
+% AE
+"R16130":
+(GQAE-) or (GQAE- & AEGP+ & AEGP+ & AEGP+);
+
+% AF
+"R16133":
+(AGAF- & AJAF- & ALAF-) or (ALAF-) or (ALAF- & AFAN+ & AFAN+ & AFAN+ & AFAN+ & AFAN+);
+
+% AG
+"R16143":
+(ADAG-) or (AGAF+) or (AGAL+);
+
+% AH
+"R16144":
+(ADAH- & AHAJ+) or (ADAH- & AHAL+ & AHAL+ & AHAL+ & AHAL+ & AHAK+ & AHAL+);
+
+% AJ
+"R16153":
+(AHAJ-) or (AJAF+);
+
+% AK
+"R16154":
+(AHAK-);
+
+% AL
+"R16164":
+(AGAL- & AHAL-) or (AHAL-) or (AHAL- & ALAF+ & ALAF+ & ALAF+);
+
+% AM
+"R16230":
+(AOAM- & AMBP+ & AMBP+ & AMBP+ & AMBP+ & AMBP+ & AMBP+);
+
+% AN
+"R16233":
+(AFAN-) or (AFAN- & ANAP+);
+
+% AO
+"R16240":
+(APAO- & AOAM+);
+
+% AP
+"R16250":
+(ANAP- & APAO+);
+
+% AQ
+"R16281":
+(BQAQ- & AQBW+ & AQBW+ & AQBW+ & AQBW+ & AQBW+ & AQAR+ & AQAR+ & AQAR+ & AQAR+ & AQAR+ & AQAR+ & AQAR+);
+
+% AR
+"R16291":
+(AQAR-) or (AQAR- & ARBV+);
+
+% AS
+"R18114":
+(ASAT+) or (AUAS- & AUAS- & AUAS- & AUAS- & AUAS- & AUAS- & AUAS- & AUAS- & ASAT+);
+
+% AT
+"R18124":
+(ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ASAT- & ATLR+ & ATLR+ & ATLR+ & ATLR+);
+
+% AU
+"R19114":
+(AUAS+) or (AVAU- & AVAU- & AUAS+) or (AVAU- & AVAU- & AVAU- & AVAU- & AVAU- & AUAS+);
+
+% AV
+"R19115":
+(AVAU+) or (AWAV- & AXAV- & AYAV-) or (AXAV- & AXAV- & AYAV- & AXAV- & AVAU+);
+
+% AW
+"R19116":
+(AWAV+) or (AWAW- & AWAW+) or (AWAW- & AWAX+) or (CDAW-) or (CDAW- & AWAW+);
+
+% AX
+"R19117":
+(AWAX- & AXAV+) or (AXAV+) or (AYAX-);
+
+% AY
+"R19118":
+(AYAV+) or (CDAY- & AYAV+ & AYAX+);
+
+% AZ
+"R19213":
+(CEAZ-) or (CEAZ- & AZBA+ & AZBA+ & AZBA+);
+
+% BA
+"R19224":
+(AZBA-) or (AZBA- & BACD+);
+
+% BB
+"R24359":
+(CLBB- & BBCH+ & BBBD+);
+
+% BC
+"R24368":
+(BDBC- & BCCG+);
+
+% BD
+"R24378":
+(BBBD- & BDBC+);
+
+% BE
+"R24380":
+(BFBE-) or (BFBE- & BEBG+ & BEBG+ & BEBG+) or (BMBE- & BFBE-);
+
+% BF
+"R24381":
+(BMBF- & BMBF- & BNBF- & BFBE+ & BFBE+ & BFBE+ & BFBE+);
+
+% BG
+"R24393":
+(BEBG-) or (BEBG- & BGCK+ & BGCK+);
+
+% BH
+"R25275":
+(BLBH-) or (BLBH- & BHBJ+);
+
+% BJ
+"R25276":
+(BHBJ- & BJCZ+ & BJCZ+);
+
+% BK
+"R25285":
+(BLBK-);
+
+% BL
+"R25295":
+(BYBL- & BZBL-) or (BZBL-) or (BZBL- & BLBK+ & BLBK+ & BLBK+ & BLBH+ & BLBK+ & BLBK+ & BLBK+ & BLBK+ & BLBK+ & BLBH+);
+
+% BM
+"R25380":
+(BMBE+) or (BMBF+) or (BOBM-) or (DBBM-);
+
+% BN
+"R25381":
+(BOBN- & BNBF+);
+
+% BO
+"R25390":
+(DBBO- & BOBM+ & BOBM+ & BOBM+ & BOBM+ & BOBM+ & BOBM+ & BOBM+ & BOBN+);
+
+% BP
+"R26231":
+(AMBP-) or (AMBP- & BPBQ+ & BPBQ+ & BPBQ+ & BPBR+ & BPBQ+);
+
+% BQ
+"R26241":
+(BPBQ-) or (BPBQ- & BQAQ+);
+
+% BR
+"R26251":
+(BPBR-);
+
+% BS
+"R26280":
+(BVBS- & BSBX+ & BSBX+ & BSBX+);
+
+% BT
+"R26285":
+(BXBT-) or (BXBT- & BTBU+);
+
+% BU
+"R26286":
+(BTBU- & BUBY+ & BUBY+ & BUCA+);
+
+% BV
+"R26290":
+(BWBV- & ARBV- & BVBS+);
+
+% BW
+"R26291":
+(AQBW-) or (BWBV+) or (BWBX+);
+
+% BX
+"R26293":
+(BSBX-) or (BSBX- & BXBY+ & BXBY+ & BXBY+ & BXBT+ & BXBT+ & BXBY+ & BXBT+) or (BWBX- & BSBX-);
+
+% BY
+"R26295":
+(BUBY-) or (BXBY-) or (BYBL+) or (BYBZ+);
+
+% BZ
+"R26296":
+(BYBZ- & CABZ-) or (BYBZ- & CABZ- & BZBL+ & BZBL+ & BZBL+ & BZBL+ & BZBL+) or (CABZ-);
+
+% CA
+"R26297":
+(BUCA- & CABZ+ & CABZ+ & CABZ+ & CABZ+ & CABZ+);
+
+% CB
+"R28212":
+(CBCC+) or (DGCB- & CBCC+ & CBCC+ & CBCC+);
+
+% CC
+"R28213":
+(CBCC-) or (CBCC- & CBCC- & CBCC- & CBCC- & CBCC-) or (CBCC- & CCCE+ & CCCE+ & CCCE+);
+
+% CD
+"R29119":
+(BACD- & CDAY+ & CDAW+ & CDAW+ & CDAW+ & CDAW+ & CDAW+);
+
+% CE
+"R29213":
+(CCCE-) or (CCCE- & CEAZ+ & CEAZ+);
+
+% CF
+"R34357":
+(CGCF-) or (CGCF- & CFCW+);
+
+% CG
+"R34358":
+(CHCG- & CHCG- & CHCG- & CHCG- & CHCG- & CHCG- & CHCG- & CHCG- & CHCG- & BCCG- & CGCF+ & CGCU+ & CGCU+ & CGCF+);
+
+% CH
+"R34368":
+(BBCH-) or (CHCG+) or (CLCH-);
+
+% CJ
+"R34369":
+(CKCJ- & CJCL+ & CJCL+ & CJCL+ & CJCL+ & CJCL+ & CJCL+ & CJCM+ & CJCL+ & CJCL+ & CJCL+ & CJCL+ & CJCL+);
+
+% CK
+"R34377":
+(BGCK-) or (BGCK- & CKCJ+);
+
+% CL
+"R34378":
+(CJCL-) or (CJCL- & CLCH+ & CLBB+);
+
+% CM
+"R34379":
+(CJCM-);
+
+% CN
+"R34432":
+(CPCN-) or (CPCN- & CNCR+ & CNCQ+ & CNCQ+ & CNCQ+ & CNCQ+ & CNCR+ & CNCO+ & CNCR+);
+
+% CO
+"R34433":
+(CQCO- & CNCO-);
+
+% CP
+"R34434":
+(DLCP-) or (DLCP- & CPCQ+ & CPCQ+ & CPCT+ & CPCQ+ & CPCQ+ & CPCQ+ & CPCN+ & CPCN+);
+
+% CQ
+"R34442":
+(CNCQ-) or (CPCQ-) or (CQCO+) or (CQCX+);
+
+% CR
+"R34443":
+(CNCR-) or (CNCR- & CRCX+);
+
+% CS
+"R34449":
+(CVCS-);
+
+% CT
+"R34452":
+(CPCT-) or (CTCX+);
+
+% CU
+"R34457":
+(CGCU-) or (CGCU- & CUCV+ & CUCV+);
+
+% CV
+"R34458":
+(CUCV-) or (CUCV- & CVCS+);
+
+% CW
+"R34466":
+(CFCW- & CWDZ+ & CWDZ+ & CWDZ+ & CWDZ+ & CWDZ+ & CWDZ+ & CWDZ+ & CWDZ+ & CWEC+ & CWDZ+ & CWDZ+ & CWDZ+ & CWEC+);
+
+% CX
+"R34543":
+(CQCX- & CTCX- & CQCX- & CQCX- & CQCX- & CQCX- & CRCX- & CXEH+);
+
+% CY
+"R35277" "R35378":
+(CZCY-);
+
+% CZ
+"R35376":
+(BJCZ-) or (BJCZ- & CZDA+ & CZDA+ & CZCY+ & CZDA+ & CZCY+ & CZDA+ & CZDA+ & CZDA+ & CZDA+ & CZDA+);
+
+% DA
+"R35377":
+(CZDA-) or (CZDA- & DADD+);
+
+% DB
+"R35381":
+(DFDB-) or (DFDB- & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBM+ & DBBO+);
+
+% DC
+"R35386":
+(DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DDDC- & DCEL+);
+
+% DD
+"R35387":
+(DADD- & DDDC+) or (DDDC+);
+
+% DE
+"R35393":
+(ERDE-);
+
+% DF
+"R35491":
+(ERDF-) or (ERDF- & DFDB+ & DFDB+ & DFDB+);
+
+% DG
+"R39213":
+(EXDG-) or (EXDG- & DGCB+);
+
+% DH
+"R42536":
+(DUDH- & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+ & DHFM+);
+
+% DJ
+"R43366":
+(DQDJ- & DRDJ-) or (DRDJ-) or (DRDJ- & DJED+);
+
+% DK
+"R43376":
+(DRDK-);
+
+% DL
+"R43448":
+(DXDL- & DMDL- & DLDO+ & DLCP+ & DLCP+ & DLCP+);
+
+% DM
+"R43449":
+(DXDM- & EBDM- & DMDL+);
+
+% DN
+"R43457":
+(DODN- & DSDN-) or (DSDN-) or (DSDN- & DNDP+);
+
+% DO
+"R43458":
+(DLDO-) or (DODN+) or (DODX+ & DOEA+) or (DOED+) or (EDDO-);
+
+% DP
+"R43459":
+(EADP- & DNDP- & DPDY+ & DPDY+);
+
+% DQ
+"R43466":
+(DQDJ+) or (DQED+) or (ECDQ-) or (EEDQ-);
+
+% DR
+"R43467":
+(DTDR- & DRDJ+ & DRDJ+ & DRDJ+ & DRDJ+ & DRDJ+ & DRDJ+ & DRDJ+ & DRDK+ & DRDK+ & DRDJ+ & DRDJ+);
+
+% DS
+"R43468":
+(EDDS- & DSDN+ & DSEA+ & DSEA+ & DSEA+ & DSDN+ & DSDN+ & DSEA+ & DSDN+ & DSDN+);
+
+% DT
+"R43476":
+(EEDT- & DTDR+);
+
+% DU
+"R43536":
+(DVDU- & DUDH+);
+
+% DV
+"R43545":
+(DWDV- & DVDU+);
+
+% DW
+"R43584":
+(EFDW-) or (EFDW- & DWDV+);
+
+% DX
+"R44447":
+(DODX-) or (DXDL+) or (DXDM+) or (DYDX-) or (EADX- & DYDX-);
+
+% DY
+"R44449":
+(DPDY-) or (DPDY- & DYEB+ & DYDX+ & DYDX+ & DYDX+ & DYDX+ & DYEB+);
+
+% DZ
+"R44456":
+(CWDZ-);
+
+% EA
+"R44457":
+(DOEA- & EADP+) or (DSEA-) or (EADX+);
+
+% EB
+"R44458":
+(DYEB-) or (DYEB- & EBDM+);
+
+% EC
+"R44466":
+(CWEC-) or (CWEC- & ECDQ+ & ECEE+);
+
+% ED
+"R44467":
+(DOED- & DQED- & DJED- & EDDO+ & EDDS+);
+
+% EE
+"R44476":
+(ECEE- & EEDQ+ & EEDT+);
+
+% EF
+"R44532":
+(EHEF-) or (EHEF- & EFDW+ & EFDW+ & EFDW+);
+
+% EG
+"R44533":
+(EHEG-);
+
+% EH
+"R44542":
+(CXEH- & EHEF+ & EHEF+ & EHEF+ & EHEG+ & EHEF+ & EHEF+);
+
+% EJ
+"R45366":
+(EKEJ- & EJEN+);
+
+% EK
+"R45376":
+(ELEK- & EKEJ+);
+
+% EL
+"R45377":
+(DCEL- & ELEK+);
+
+% EM
+"R45434":
+(EOEM-) or (EOEM- & EMEP+ & EMEQ+ & EMEP+);
+
+% EN
+"R45455":
+(EJEN- & ENEO+);
+
+% EO
+"R45465":
+(ENEO- & EOEM+ & EOEM+ & EOEM+);
+
+% EP
+"R45481":
+(EMEP-) or (EMEP- & EPES+ & EPES+ & EPES+ & EPES+ & EPES+ & EPEU+ & EPES+);
+
+% EQ
+"R45482":
+(EMEQ-);
+
+% ER
+"R45491":
+(EVER-) or (EVER- & ERDF+ & ERDF+ & ERDE+ & ERDE+ & ERDF+ & ERDF+ & ERDF+ & ERDF+ & ERDF+ & ERDF+ & ERDF+);
+
+% ES
+"R45581":
+(EPES-) or (EPES- & ESET+ & ESET+ & ESET+ & ESET+);
+
+% ET
+"R45582":
+(ESET-) or (ESET- & ETEW+);
+
+% EU
+"R45583":
+(EPEU-);
+
+% EV
+"R45591":
+(EWEV-) or (EWEV- & EVER+ & EVER+ & EVER+ & EVER+);
+
+% EW
+"R45592":
+(ETEW- & EWEV+ & EWEV+ & EWEV+);
+
+% EX
+"R49213":
+(EYEX-) or (EYEX- & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+ & EXDG+);
+
+% EY
+"R49313":
+(GHEY- & EYEX+ & EYEX+ & EYEX+ & EYEX+ & EYEX+);
+
+% EZ
+"R50672":
+(FAEZ- & EZFC+);
+
+% FA
+"R50673":
+(FJFA- & FJFA- & FJFA- & FLFA- & FJFA- & FJFA- & FLFA- & FJFA- & FJFA- & FJFA- & FJFA- & FJFA- & FAEZ+);
+
+% FB
+"R50771":
+(FCFB-) or (FCFB- & FBFK+ & FBFK+ & FBFK+);
+
+% FC
+"R50781":
+(EZFC- & FCFB+ & FCFB+ & FCFB+);
+
+% FD
+"R51576" "R52568":
+(FQFD-);
+
+% FE
+"R51635":
+(FKFE- & FEFF+);
+
+% FF
+"R51636":
+(FEFF- & FFFG+ & FFGW+);
+
+% FG
+"R51637":
+(FFFG-) or (FGFT+) or (FUFG-);
+
+% FH
+"R51638":
+(FOFH-) or (FOFH- & FHFT+ & FHFT+ & FHFT+);
+
+% FJ
+"R51672":
+(FJFA+) or (FWFJ- & FJFA+);
+
+% FK
+"R51673":
+(FBFK-) or (FBFK- & FKFE+);
+
+% FL
+"R51682":
+(FLFA+);
+
+% FM
+"R52536":
+(DHFM-) or (DHFM- & FMFQ+);
+
+% FN
+"R52537":
+(FPFN-);
+
+% FO
+"R52539":
+(FPFO- & FOFU+ & FOFH+ & FOFU+ & FOFH+) or (FVFO-);
+
+% FP
+"R52547":
+(HLFP- & FPFN+ & FPFN+ & FPFN+ & FPFN+ & FPFN+ & FPFV+ & FPFN+ & FPFN+ & FPFN+ & FPFO+);
+
+% FQ
+"R52556":
+(FMFQ- & FQFR+ & FQFD+ & FQFD+ & FQFR+ & FQFD+ & FQFR+ & FQFR+ & FQFR+ & FQFD+ & FQFR+ & FQFD+ & FQFR+);
+
+% FR
+"R52576":
+(FQFR-) or (FQFR- & FRHM+);
+
+% FS
+"R52593":
+(HOFS- & FSFY+ & FSFY+ & FSFY+ & FSFY+ & FSFY+);
+
+% FT
+"R52635":
+(FGFT- & FHFT-) or (FHFT-) or (FHFT- & FTFW+ & FTFW+ & FTFX+ & FTFX+ & FTFX+ & FTFW+ & FTFW+ & FTFW+ & FTFW+ & FTFW+ & FTFW+ & FTFW+ & FTFX+ & FTFW+ & FTFW+);
+
+% FU
+"R52637":
+(FOFU-) or (FOFU- & FUFG+);
+
+% FV
+"R52638":
+(FPFV- & FVFO+);
+
+% FW
+"R52672":
+(FTFW-) or (FTFW- & FWFJ+);
+
+% FX
+"R52673" "R52772":
+(FTFX-);
+
+% FY
+"R53583":
+(FSFY-) or (FSFY- & FYGC+ & FYGC+ & FYGG+ & FYGC+ & FYGC+ & FYGC+ & FYGG+);
+
+% FZ
+"R53642":
+(FZHJ+) or (GDFZ-) or (GFFZ-);
+
+% GA
+"R53651":
+(GDGA-) or (GDGA- & GAGE+ & GAGE+ & GAGE+ & GAGE+);
+
+% GB
+"R53653":
+(GFGB- & GBHJ+ & GBHJ+ & GBHJ+);
+
+% GC
+"R53683" "R53684":
+(FYGC-);
+
+% GD
+"R53742":
+(HUGD-) or (HUGD- & GDFZ+ & GDGA+ & GDGA+ & GDGA+);
+
+% GE
+"R53751":
+(GAGE-) or (GAGE- & GEHX+ & GEHX+ & GEHX+ & GEHX+ & GEHX+ & GEHX+ & GEHX+);
+
+% GF
+"R53752":
+(HWGF- & GFFZ+ & GFGB+);
+
+% GG
+"R53783":
+(FYGG-) or (FYGG- & GGJC+ & GGJB+ & GGJC+ & GGJB+);
+
+% GH
+"R59314":
+(JFGH- & GHEY+);
+
+% GJ
+"R59417":
+(JEGJ-) or (JEGJ- & GJJG+);
+
+% GK
+"R60635":
+(GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GWGK- & GKJT+);
+
+% GL
+"R60646":
+(GMGL- & GLHE+);
+
+% GM
+"R60656":
+(GXGM- & GMGL+);
+
+% GN
+"R6080":
+(GOGN- & GNHK+);
+
+% GO
+"R6090":
+(KEGO- & GOGN+);
+
+% GP
+"R6130":
+(AEGP-) or (AEGP- & GPAB+);
+
+% GQ
+"R6140":
+(HDGQ- & GQAE+ & GQAE+);
+
+% GR
+"R61557":
+(GRHB+) or (GZGR-);
+
+% GS
+"R61559":
+(GZGS- & GSHL+);
+
+% GT
+"R61565":
+(KFGT-) or (KFGT- & GTGV+ & GTGV+ & GTGV+ & GTGV+ & GTGV+);
+
+% GU
+"R61567":
+(GZGU-) or (GZGU- & GUHN+);
+
+% GV
+"R61575":
+(GTGV-) or (GTGV- & GVHC+ & GVHC+);
+
+% GW
+"R61636":
+(FFGW- & GWGK+) or (GWGK+);
+
+% GX
+"R61655":
+(GYGX-) or (GYGX- & GXGM+);
+
+% GY
+"R61656":
+(HBGY- & GYGX+ & GYGX+ & GYGX+);
+
+% GZ
+"R61657":
+(HAGZ- & GZGR+ & GZGU+ & GZGR+ & GZGR+ & GZGS+ & GZGU+ & GZHL+ & GZHL+ & GZHL+);
+
+% HA
+"R61658":
+(HJHA-) or (HJHA- & HAGZ+);
+
+% HB
+"R61666":
+(GRHB- & HMHB- & HBGY+);
+
+% HC
+"R61693":
+(GVHC-) or (GVHC- & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+ & HCHO+);
+
+% HD
+"R6170":
+(HKHD-) or (HKHD- & HDGQ+);
+
+% HE
+"R61747":
+(GLHE- & HEKM+);
+
+% HF
+"R61760":
+(KOHF-);
+
+% HG
+"R61770":
+(KWHG-) or (KWHG- & HGHH+ & HGHH+) or (KWHG- & KWHG-);
+
+% HH
+"R61771":
+(HGHH-) or (HGHH- & HHHR+);
+
+% HJ
+"R61794":
+(FZHJ- & GBHJ-) or (GBHJ-) or (GBHJ- & HJHA+ & HJHA+);
+
+% HK
+"R6180":
+(GNHK- & HKHD+ & HKHD+);
+
+% HL
+"R62557":
+(GSHL-) or (GZHL-) or (GZHL- & HLFP+);
+
+% HM
+"R62566":
+(FRHM- & HMHB+);
+
+% HN
+"R62567":
+(GUHN-);
+
+% HO
+"R62593":
+(HCHO-) or (HCHO- & HOFS+);
+
+% HP
+"R62671":
+(HRHP-) or (HRHP- & HPJZ+ & HPJZ+ & HPJZ+);
+
+% HQ
+"R62733":
+(HTHQ-);
+
+% HR
+"R62771":
+(HHHR- & HRHP+ & HRHP+ & HRHP+ & HRHP+);
+
+% HS
+"R62832":
+(HTHS-) or (HTHS- & HSHV+ & HSHV+);
+
+% HT
+"R62833":
+(KXHT- & KXHT- & KXHT- & KXHT- & KXHT- & KXHT- & HTHS+ & HTHS+ & HTHQ+ & HTHS+ & HTHS+);
+
+% HU
+"R62873":
+(JBHU-) or (JBHU- & HUGD+ & HUGD+);
+
+% HV
+"R63732":
+(HSHV-) or (HSHV- & HVHW+);
+
+% HW
+"R63742":
+(HVHW- & HWGF+);
+
+% HX
+"R63751":
+(GEHX-) or (GEHX- & HXHY+ & HXHY+ & HXJA+ & HXJA+ & HXHZ+);
+
+% HY
+"R63761":
+(HXHY-) or (HYKR+) or (HYKU+ & HYKU+ & HYKR+) or (JAHY-) or (JAHY- & HYKR+);
+
+% HZ
+"R63762":
+(HXHZ- & HZKR+);
+
+% JA
+"R63771":
+(HXJA-) or (HXJA- & JAHY+ & JAHY+ & JAHY+) or (JAHY+);
+
+% JB
+"R63773":
+(GGJB-) or (GGJB- & JBHU+ & JBHU+);
+
+% JC
+"R63783":
+(GGJC-);
+
+% JD
+"R68319":
+(LAJD- & JDJE+);
+
+% JE
+"R68419":
+(JDJE- & JEGJ+ & JEGJ+);
+
+% JF
+"R69414":
+(JGJF- & JFGH+);
+
+% JG
+"R69417":
+(GJJG- & JGJF+);
+
+% JH
+"R7020":
+(JHJO+) or (JLJH- & JHJO+);
+
+% JJ
+"R7021":
+(JJLG+) or (JLJJ- & JJLG+);
+
+% JK
+"R7022":
+(JKLD+ & JKLG+) or (LCJK- & LCJK- & LCJK- & LCJK- & JKLG+);
+
+% JL
+"R7023":
+(JLJJ+) or (JMJL- & JNJL- & JNJL-) or (JNJL- & JLJH+);
+
+% JM
+"R7024":
+(JMJL+) or (JMJM+) or (JMJM- & JMJM+) or (JMJM- & JMJN+) or (JNJM-);
+
+% JN
+"R7025":
+(JMJN- & LEJN- & LEJN- & JNJM+ & JNJL+ & JNJM+ & JNJL+) or (JNJM+ & JNJL+);
+
+% JO
+"R7030":
+(JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JHJO- & JOJQ+);
+
+% JP
+"R7040":
+(JQJP-) or (JQJP- & JPKE+ & JPKE+ & JPKE+ & JPKE+ & JPKE+);
+
+% JQ
+"R7050":
+(JOJQ- & JQJP+ & JQJP+ & JQJP+ & JQJP+);
+
+% JR
+"R70555":
+(KGJR- & KJJR- & LVJR-) or (LVJR-);
+
+% JS
+"R70565":
+(LVJS-) or (LVJS- & JSKF+);
+
+% JT
+"R70645":
+(GKJT- & JTJT+) or (JTJT-) or (JTJT- & JTJT+);
+
+% JU
+"R70737":
+(KLJU-) or (KLJU- & JUKB+);
+
+% JV
+"R70739":
+(KCJV-);
+
+% JW
+"R70759":
+(JXJW- & JWKN+ & JWKN+ & JWKN+ & JWKN+ & JWKP+ & JWKP+ & JWKP+ & JWKN+ & JWKN+ & JWKN+ & JWKN+);
+
+% JX
+"R70768":
+(LJJX-) or (LJJX- & JXJW+);
+
+% JY
+"R70778":
+(LJJY-);
+
+% JZ
+"R70793":
+(HPJZ-) or (HPJZ- & JZLP+);
+
+% KA
+"R70837":
+(KCKA-) or (KCKA- & KALH+);
+
+% KB
+"R70838":
+(JUKB- & KBKD+);
+
+% KC
+"R70847":
+(KDKC- & KCJV+ & KCKA+ & KCJV+ & KCKA+);
+
+% KD
+"R70848":
+(KBKD- & KDKC+);
+
+% KE
+"R7090":
+(JPKE-) or (JPKE- & KEGO+);
+
+% KF
+"R71565":
+(JSKF- & KFGT+ & KFGT+);
+
+% KG
+"R71655":
+(KGJR+) or (KKKG-) or (LTKG-) or (LTKG- & KGKJ+);
+
+% KH
+"R71656":
+(LUKH- & LUKH- & KKKH- & KHLV+);
+
+% KJ
+"R71665":
+(KGKJ-) or (KJJR+) or (KKKJ-);
+
+% KK
+"R71675":
+(LTKK- & KKKG+ & KKKJ+ & KKKJ+ & KKKH+);
+
+% KL
+"R71737":
+(KMKL- & KLJU+ & KLJU+ & KLJU+ & KLJU+);
+
+% KM
+"R71747":
+(HEKM- & KMKL+);
+
+% KN
+"R71758":
+(JWKN-) or (JWKN- & KNKQ+ & KNKQ+);
+
+% KO
+"R71760":
+(KWKO- & KOHF+);
+
+% KP
+"R71768":
+(JWKP-);
+
+% KQ
+"R71858":
+(KNKQ-) or (KNKQ- & KQLW+ & KQLW+ & KQLW+);
+
+% KR
+"R72752":
+(HYKR- & HYKR- & HYKR- & HYKR- & HYKR- & HYKR- & HYKR- & HZKR- & KRKU+ & KRKS+);
+
+% KS
+"R72851":
+(KRKS- & KSKV+ & KSKV+ & KSKT+ & KSKT+ & KSKT+ & KSKT+ & KSKT+ & KSKT+ & KSKT+ & KSKT+ & KSKT+);
+
+% KT
+"R72860":
+(KSKT-) or (KTKW+) or (KUKT- & KSKT-) or (KUKT- & KSKT- & KTKW+);
+
+% KU
+"R72861":
+(HYKU-) or (KRKU-) or (KUKT+);
+
+% KV
+"R72870":
+(KSKV-) or (KVKW+);
+
+% KW
+"R72871":
+(KTKW- & KWHG+ & KWHG+ & KWHG+ & KWKO+ & KWHG+) or (KVKW- & KVKW- & KTKW- & KTKW- & KWHG+);
+
+% KX
+"R73832":
+(KXHT+) or (KZKX- & KXHT+);
+
+% KY
+"R73833" "R73852":
+(MBKY-);
+
+% KZ
+"R73842":
+(MBKZ-) or (MBKZ- & KZKX+);
+
+% LA
+"R78519":
+(MFLA- & LAJD+);
+
+% LB
+"R8021":
+(LQLB-) or (LQLB- & LBLD+ & LBLD+);
+
+% LC
+"R8022":
+(LCJK+) or (LCLD+) or (LQLC-);
+
+% LD
+"R8023":
+(LBLD-) or (LCLD- & LCLD-) or (LCLD- & LCLD- & JKLD-) or (LDLG+);
+
+% LE
+"R8024":
+(LEJN+) or (LELE-) or (LELE- & LELE+) or (LGLE-) or (LGLE- & LEJN+) or (LRLE- & LELE+);
+
+% LF
+"R8025":
+(LGLF-);
+
+% LG
+"R8033":
+(LDLG- & JKLG- & JJLG- & JJLG- & JJLG- & JJLG- & JJLG- & JKLG- & LGLF+ & LGLF+ & LGLF+ & LGLF+ & LGLE+ & LGLE+ & LGLF+ & LGLE+ & LGLE+ & LGLE+ & LGLE+ & LGLF+ & LGLE+ & LGLE+ & LGLE+);
+
+% LH
+"R80767":
+(KALH- & LHLL+ & LHLL+ & LHLL+ & LHLL+ & LHLL+ & LHLL+ & LHLK+);
+
+% LJ
+"R80768":
+(LPLJ-) or (LPLJ- & LJJX+ & LJJX+ & LJJX+ & LJJX+ & LJJX+ & LJJY+ & LJJX+ & LJJX+ & LJJY+ & LJJX+ & LJJX+);
+
+% LK
+"R80777":
+(LHLK- & LKLT+ & LKLT+);
+
+% LL
+"R80787":
+(LHLL-) or (LLLT+);
+
+% LM
+"R80848":
+(LMLN+) or (LMLX+) or (LOLM-) or (LOLM- & LMLN+) or (LWLM-);
+
+% LN
+"R80849":
+(LMLN-) or (LMLN- & LMLN- & LNLX+) or (LMLN- & LNLN+) or (LMLN- & LNLN- & LNLN+) or (LMLN- & LNLN- & LNLX+) or (LMLN- & LNLX+);
+
+% LO
+"R80858":
+(LWLO- & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+ & LOLM+);
+
+% LP
+"R80868":
+(JZLP- & LPLJ+ & LPLJ+);
+
+% LQ
+"R8123":
+(LSLQ-) or (LSLQ- & LQLC+ & LQLC+ & LQLC+ & LQLC+ & LQLC+ & LQLC+ & LQLC+ & LQLB+ & LQLB+ & LQLB+);
+
+% LR
+"R8124":
+(ATLR-) or (ATLR- & LRLE+ & LRLS+ & LRLS+ & LRLS+);
+
+% LS
+"R8125":
+(LRLS-) or (LRLS- & LSLQ+ & LSLQ+);
+
+% LT
+"R81655":
+(LKLT- & LTLU+ & LTKG+ & LTKG+ & LTKK+) or (LLLT- & LLLT- & LLLT- & LLLT- & LKLT- & LTLU+ & LTLU+);
+
+% LU
+"R81665":
+(LTLU-) or (LUKH+);
+
+% LV
+"R81675":
+(KHLV- & LVJR+ & LVJR+ & LVJR+ & LVJR+ & LVJR+ & LVJS+ & LVJR+ & LVJS+);
+
+% LW
+"R81858":
+(KQLW-) or (KQLW- & LWLM+ & LWLM+ & LWLM+ & LWLO+);
+
+% LX
+"R82834":
+(LMLX- & LMLX- & LMLX- & LMLX- & LMLX- & LMLX- & LNLX- & LNLX- & LNLX- & LNLX- & LXLY+) or (LXLY+);
+
+% LY
+"R82835":
+(LXLY- & LXLY- & LYLZ+);
+
+% LZ
+"R82843":
+(LYLZ- & LZMA+);
+
+% MA
+"R83833":
+(LZMA- & MAMB+);
+
+% MB
+"R83842":
+(MAMB- & MBKZ+ & MBKZ+ & MBKZ+ & MBKY+ & MBKZ+ & MBKZ+ & MBKZ+ & MBKY+ & MBKZ+ & MBKZ+ & MBKZ+);
+
+% MC
+"R87619":
+(MEMC- & MCMF+ & MCMF+);
+
+% MD
+"R87818":
+(MGMD-);
+
+% ME
+"R87819":
+(MGME-) or (MGME- & MEMC+);
+
+% MF
+"R88519":
+(MCMF-) or (MCMF- & MFLA+);
+
+% MG
+"R88819":
+(MHMG-) or (MHMG- & MGME+ & MGMD+ & MGMD+ & MGMD+ & MGME+ & MGMD+ & MGME+);
+
+% MH
+"R88909":
+(MNMH-) or (MNMH- & MHMG+ & MHMG+ & MHMJ+ & MHMG+ & MHMG+);
+
+% MJ
+"R88919":
+(MHMJ-);
+
+% MK
+"R89904":
+(NDMK- & NDMK- & NDMK- & NDMK- & NDMK- & NDMK- & NDMK- & NDMK- & MKML+ & MKML+ & MKML+ & MKML+);
+
+% ML
+"R89905":
+(MKML-) or (MKML- & MLMM+ & MLMM+ & MLMM+);
+
+% MM
+"R89908":
+(MLMM-) or (MLMM- & MMMN+ & MMMN+ & MMMN+ & MMMN+ & MMMN+ & MMMN+ & MMMN+);
+
+% MN
+"R89909":
+(MMMN-) or (MMMN- & MNMH+ & MNMH+ & MNMH+ & MNMH+ & MNMH+ & MNMH+ & MNMH+ & MNMH+);
+
+% MO
+"R90000":
+(MOMO+) or (MOMO- & MOMO+) or (MOMO- & MOMP+ & MOMS+ & MOMS+ & MOMS+ & MOMS+);
+
+% MP
+"R94000":
+(MOMP- & MPMQ+ & MPMQ+);
+
+% MQ
+"R95009":
+(MPMQ-) or (MPMQ- & MQMR+ & MQMR+);
+
+% MR
+"R96009":
+(MQMR-);
+
+% MS
+"R96099":
+(MOMS-) or (MOMS- & MSMT+ & MSMT+ & MSMT+);
+
+% MT
+"R96199":
+(MSMT-) or (MSMT- & MTMU+);
+
+% MU
+"R97199":
+(MTMU- & MUMV+);
+
+% MV
+"R97290":
+(MUMV- & MVMW+);
+
+% MW
+"R97390":
+(MVMW- & MWMX+);
+
+% MX
+"R97590":
+(MWMX- & MXMY+);
+
+% MY
+"R97890":
+(MXMY- & MYNC+ & MYNC+ & MYNC+ & MYNC+ & MYNC+ & MYNC+ & MYNC+);
+
+% MZ
+"R97906":
+(NEMZ-) or (NEMZ- & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+ & MZNB+);
+
+% NA
+"R97907":
+(NENA-);
+
+% NB
+"R97909":
+(MZNB-) or (MZNB- & NBNB+) or (NBNB- & NBNB+) or (NBNB- & NBNH+) or (NBNH+) or (NENB-);
+
+% NC
+"R97990":
+(MYNC-) or (MYNC- & NCNK+ & NCNK+ & NCNK+);
+
+% ND
+"R98904":
+(NDMK+) or (NFND- & NDMK+);
+
+% NE
+"R98909":
+(NENH+) or (NJNE-) or (NJNE- & NENB+) or (NJNE- & NENB+ & NEMZ+ & NENA+ & NEMZ+);
+
+% NF
+"R99904":
+(NGNF-) or (NGNF- & NFND+);
+
+% NG
+"R99905":
+(NHNG-) or (NHNG- & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+ & NGNF+);
+
+% NH
+"R99906":
+(NENH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NBNH- & NHNG+ & NHNG+ & NHNG+ & NHNG+ & NHNG+);
+
+% NJ
+"R99920":
+(NKNJ- & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+ & NJNE+);
+
+% NK
+"R99990":
+(NCNK-) or (NCNK- & NKNJ+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 309 word clusters, 309 Link Grammar rules.

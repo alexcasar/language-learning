@@ -1,0 +1,67 @@
+% Grammar Learner v.0.7 2020-03-23 05:01:36 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0":
+(BB+) or (BB-) or (BB- & BB+);
+
+% C
+"R1":
+(CC+) or (CC-) or (CC- & CC+);
+
+% D
+"R12":
+(DD+) or (DD-) or (DD- & DD+);
+
+% E
+"R14":
+(EE- & EE+) or (EE- & EH+) or (OE- & EE+);
+
+% F
+"R15":
+(FF+) or (FF-) or (FF- & FF+);
+
+% G
+"R16":
+(GG+) or (GG-) or (GG- & GG+);
+
+% H
+"R17":
+(EH- & HH+) or (HH-) or (HH- & HH+);
+
+% J
+"R18":
+(JJ+) or (JJ-) or (JJ- & JJ+);
+
+% K
+"R19":
+(KK+) or (KK-) or (KK- & KK+);
+
+% L
+"R2":
+(LL+) or (LL-) or (LL- & LL+);
+
+% M
+"R20":
+(MM+) or (MM-) or (MM- & MM+);
+
+% N
+"R21":
+(NN+) or (NN-) or (NN- & NN+);
+
+% O
+"R5":
+(OO+) or (OO- & OE+) or (OO- & OO+) or (OO- & OP+) or (PO- & OO+);
+
+% P
+"R8":
+(OP- & PP+) or (PP- & PO+) or (PP- & PP+);
+
+% Q
+"R9":
+(QQ+) or (QQ-) or (QQ- & QQ+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 15 word clusters, 15 Link Grammar rules.

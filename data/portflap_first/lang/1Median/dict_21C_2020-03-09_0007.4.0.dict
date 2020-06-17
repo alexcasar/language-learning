@@ -1,0 +1,91 @@
+% Grammar Learner v.0.7 2020-03-09 07:53:32 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB- & BB+) or (BB- & BC+) or (BC+) or (BD+) or (JB-) or (JB- & BB+) or (JB- & BC+);
+
+% C
+"AAB":
+(BC- & BC- & BC- & CF+) or (BC- & BC- & CF+) or (BC- & CF+) or (JC- & CF+) or (QC- & CF+);
+
+% D
+"AAC":
+(BD- & BD- & DH+);
+
+% E
+"ABA":
+(EG+);
+
+% F
+"ABB":
+(CF-) or (CF- & FM+) or (CF- & FN+) or (KF-) or (KF- & FM+) or (KF- & FN+);
+
+% G
+"ABC":
+(KG- & EG- & KG- & GP+ & GV+) or (KG- & SG- & GP+ & GV+);
+
+% H
+"ACB":
+(DH- & HS+ & HM+ & HM+);
+
+% J
+"BAA":
+(LJ- & JB+) or (LJ- & JB+ & JB+) or (LJ- & JB+ & JB+ & JB+) or (LJ- & JC+) or (RJ- & JB+ & JB+);
+
+% K
+"BAB":
+(KG+) or (LK- & KF+) or (LK- & KF+ & KP+) or (LK- & KG+);
+
+% L
+"BBA":
+(LK+) or (ML- & LJ+) or (ML- & LK+) or (ML- & ML- & LJ+) or (ML- & ML- & LK+) or (ML- & ML- & ML- & LJ+) or (ML- & ML- & ML- & LK+) or (SL- & LJ+);
+
+% M
+"BBB":
+(FM- & ML+) or (FM- & MM+) or (HM-) or (HM- & MM+) or (ML+) or (MM+) or (MM- & ML+) or (MM- & MM+) or (MM- & MN+) or (MN+) or (SM-) or (SM- & ML+) or (SM- & MM+) or (SM- & MN+);
+
+% N
+"BBC":
+(FN- & NO+) or (FN- & NP+) or (MN- & FN- & NO+) or (MN- & FN- & NP+) or (MN- & NO+) or (MN- & NP+) or (MN- & NP+ & NT+) or (MN- & NU+) or (NO+) or (NP+) or (QN- & NO+ & NO+);
+
+% O
+"BCB":
+(NO- & OO- & OS+) or (NO- & OO- & OS+ & OO+) or (NO- & OS+) or (NO- & OS+ & OO+) or (NO- & OT+) or (NO- & SO- & OS+);
+
+% P
+"BCC":
+(GP-) or (NP- & KP- & PV+) or (NP- & PV+) or (NP- & PW+) or (NP- & PW+ & PW+ & PW+) or (PW+ & PU+) or (TP-) or (TP- & PV+);
+
+% Q
+"CAA":
+(UQ- & QC+ & QN+);
+
+% R
+"CBA":
+(VR- & WR- & WR- & RJ+);
+
+% S
+"CBB":
+(HS-) or (OS-) or (OS- & SG+) or (OS- & SM+ & SM+) or (OS- & SM+ & SM+ & SM+) or (VS- & SL+) or (VS- & SM+) or (VS- & SM+ & SM+) or (VS- & SM+ & SM+ & SM+) or (VS- & SO+);
+
+% T
+"CBC":
+(NT- & TP+) or (OT-) or (OT- & TP+);
+
+% U
+"CCA":
+(PU- & NU- & UQ+);
+
+% V
+"CCB":
+(PV-) or (PV- & VS+) or (VR+) or (WV- & GV-) or (WV- & GV- & VS+) or (WV- & PV- & VS+) or (WV- & WV- & PV- & VS+) or (WV- & WV- & WV- & VS+);
+
+% W
+"CCC":
+(PW-) or (PW- & WV+) or (PW- & WW+) or (WR+) or (WV+) or (WW- & WV+) or (WW- & WW+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 21 word clusters, 21 Link Grammar rules.

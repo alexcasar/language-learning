@@ -1,0 +1,55 @@
+% Grammar Learner v.0.7 2020-03-23 05:01:36 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"R0":
+(BB+) or (BB-) or (BB- & BB+);
+
+% C
+"R1":
+(CC+) or (CC-) or (CC- & CC+);
+
+% D
+"R10":
+(DD-) or (DD- & DD+) or (GD- & DD+);
+
+% E
+"R13":
+(FE-) or (FE- & EJ+ & EJ+);
+
+% F
+"R16":
+(NF- & MF- & FE+ & FE+);
+
+% G
+"R19":
+(GG- & GD+) or (GG- & GG+) or (JG-) or (JG- & GG+);
+
+% H
+"R2":
+(HH+) or (HH-) or (HH- & HH+) or (LH- & HH+);
+
+% J
+"R22":
+(EJ-) or (EJ- & JG+ & JG+ & JG+);
+
+% K
+"R4":
+(KK+) or (KK-) or (KK- & KK+) or (KK- & KL+) or (KK- & KM+) or (KK- & KN+);
+
+% L
+"R5":
+(KL- & NL- & LL+) or (LL- & LH+) or (LL- & LL+);
+
+% M
+"R6":
+(KM- & MM+) or (MM- & MF+) or (MM- & MM+);
+
+% N
+"R7":
+(KN- & NN+) or (NN+) or (NN- & NF+) or (NN- & NL+) or (NN- & NN+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 12 word clusters, 12 Link Grammar rules.

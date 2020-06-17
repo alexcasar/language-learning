@@ -1,0 +1,71 @@
+% Grammar Learner v.0.7 2020-02-10 09:11:05 UTC
+<dictionary-version-number>: V0v0v7+;
+<dictionary-locale>: EN4us+;
+
+% B
+"AAA":
+(BB+) or (BB-) or (BB- & BB+) or (BB- & BC+) or (BC+) or (JB- & BB+);
+
+% C
+"AAB":
+(BC- & CE+) or (BC- & CF+) or (BC- & CG+);
+
+% D
+"AAC":
+(DH+) or (LD- & DH+);
+
+% E
+"ABA":
+(CE- & EJ+) or (KE- & EJ+);
+
+% F
+"ABB":
+(CF- & FM+ & FM+ & FM+) or (CF- & JF- & FM+ & FM+ & FM+);
+
+% G
+"ABC":
+(CG- & GN+);
+
+% H
+"ACC":
+(DH- & HR+);
+
+% J
+"BAA":
+(EJ- & JB+) or (LJ-) or (LJ- & JB+) or (LJ- & JF+) or (OJ- & JB+);
+
+% K
+"BAB":
+(LK- & KE+);
+
+% L
+"BBA":
+(ML- & LJ+) or (ML- & LJ+ & LD+) or (ML- & ML- & LK+) or (ML- & ML- & ML- & LJ+ & LD+);
+
+% M
+"BBB":
+(FM-) or (FM- & ML+) or (FM- & MM+) or (ML+) or (MM- & ML+) or (MM- & MM+) or (PM-) or (PM- & ML+);
+
+% N
+"BCC":
+(GN- & NR+ & NR+ & NR+);
+
+% O
+"CBA":
+(QO- & OJ+);
+
+% P
+"CBB":
+(QP- & PM+ & PM+ & PM+);
+
+% Q
+"CCB":
+(RQ- & QP+) or (RQ- & RQ- & QP+) or (RQ- & RQ- & RQ- & QO+) or (RQ- & RQ- & RQ- & QP+);
+
+% R
+"CCC":
+(HR- & RQ+) or (NR-) or (NR- & RQ+) or (RQ+);
+
+<UNKNOWN-WORD>: XXX+;
+
+% 16 word clusters, 16 Link Grammar rules.
